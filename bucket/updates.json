@@ -2,8 +2,8 @@
 	"lab":{
 		"v":"1.0.0",
 		"changelog":"",
-		"path-dmg":"aneLab.dmg",
-		"path-exe":"aneLab.exe"
+		"path_dmg":"aneLab.dmg",
+		"path_exe":"aneLab.exe"
 	},
 	"ANEs":[
 		{
@@ -13,8 +13,8 @@
 			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
 			"changelog":"",
 			"thumb":"DEPENDENCY/AndroidSupport/icon.png",
-			"path-ane":"DEPENDENCY/AndroidSupport/androidSupport.ane",
-			"path-swc":"DEPENDENCY/AndroidSupport/androidSupport.swc"
+			"path_ane":"DEPENDENCY/AndroidSupport/androidSupport.ane",
+			"path_swc":"DEPENDENCY/AndroidSupport/androidSupport.swc"
 		},
 		{
 			"name":"firebase-analytics",
@@ -23,8 +23,8 @@
 			"desc":"Includes Android dependencies required by the Firebase Analytics ANE",
 			"changelog":"",
 			"thumb":"DEPENDENCY/firebase-analytics/icon.png",
-			"path-ane":"DEPENDENCY/firebase-analytics/firebase-analytics.ane",
-			"path-swc":"DEPENDENCY/firebase-analytics/firebase-analytics.swc"
+			"path_ane":"DEPENDENCY/firebase-analytics/firebase-analytics.ane",
+			"path_swc":"DEPENDENCY/firebase-analytics/firebase-analytics.swc"
 		},
 		{
 			"name":"firebase_analyticsImpl",
@@ -33,8 +33,8 @@
 			"desc":"Includes Android dependencies required by the Firebase Analytics ANE",
 			"changelog":"",
 			"thumb":"DEPENDENCY/firebase-analytics-impl/icon.png",
-			"path-ane":"DEPENDENCY/firebase-analytics-impl/firebase_analyticsImpl.ane",
-			"path-swc":"DEPENDENCY/firebase-analytics-impl/firebase_analyticsImpl.swc"
+			"path_ane":"DEPENDENCY/firebase-analytics-impl/firebase_analyticsImpl.ane",
+			"path_swc":"DEPENDENCY/firebase-analytics-impl/firebase_analyticsImpl.swc"
 		},
 		{
 			"name":"firebase_appindexing",
@@ -43,8 +43,8 @@
 			"desc":"Includes Android dependencies required by the Firebase Core ANE",
 			"changelog":"",
 			"thumb":"DEPENDENCY/firebase-appindexing/icon.png",
-			"path-ane":"DEPENDENCY/firebase-appindexing/firebase_appindexing.ane",
-			"path-swc":"DEPENDENCY/firebase-appindexing/firebase_appindexing.swc"
+			"path_ane":"DEPENDENCY/firebase-appindexing/firebase_appindexing.ane",
+			"path_swc":"DEPENDENCY/firebase-appindexing/firebase_appindexing.swc"
 		},
 		{
 			"name":"firebase_auth",
@@ -53,8 +53,8 @@
 			"desc":"Includes Android dependencies required by the Firebase Auth ANE",
 			"changelog":"",
 			"thumb":"DEPENDENCY/firebase-auth/icon.png",
-			"path-ane":"DEPENDENCY/firebase-auth/firebase_auth.ane",
-			"path-swc":"DEPENDENCY/firebase-auth/firebase_auth.swc"
+			"path_ane":"DEPENDENCY/firebase-auth/firebase_auth.ane",
+			"path_swc":"DEPENDENCY/firebase-auth/firebase_auth.swc"
 		},
 		{
 			"name":"firebase_common",
@@ -63,8 +63,8 @@
 			"desc":"Includes Android dependencies required by the Firebase Core ANE",
 			"changelog":"",
 			"thumb":"DEPENDENCY/firebase-common/icon.png",
-			"path-ane":"DEPENDENCY/firebase-common/firebase_common.ane",
-			"path-swc":"DEPENDENCY/firebase-common/firebase_common.swc"
+			"path_ane":"DEPENDENCY/firebase-common/firebase_common.ane",
+			"path_swc":"DEPENDENCY/firebase-common/firebase_common.swc"
 		},
 		{
 			"name":"firebase_config",
@@ -73,8 +73,8 @@
 			"desc":"Includes Android dependencies required by the Firebase Remote Config ANE",
 			"changelog":"",
 			"thumb":"DEPENDENCY/firebase-config/icon.png",
-			"path-ane":"DEPENDENCY/firebase-config/firebase_config.ane",
-			"path-swc":"DEPENDENCY/firebase-config/firebase_config.swc"
+			"path_ane":"DEPENDENCY/firebase-config/firebase_config.ane",
+			"path_swc":"DEPENDENCY/firebase-config/firebase_config.swc"
 		},
 		{
 			"name":"firebase_crash",
@@ -83,8 +83,8 @@
 			"desc":"Includes Android dependencies required by the Firebase Crash ANE",
 			"changelog":"",
 			"thumb":"DEPENDENCY/firebase-crash/icon.png",
-			"path-ane":"DEPENDENCY/firebase-crash/firebase_crash.ane",
-			"path-swc":"DEPENDENCY/firebase-crash/firebase_crash.swc"
+			"path_ane":"DEPENDENCY/firebase-crash/firebase_crash.ane",
+			"path_swc":"DEPENDENCY/firebase-crash/firebase_crash.swc"
 		},
 		{
 			"name":"firebase_database",
@@ -93,8 +93,8 @@
 			"desc":"Includes Android dependencies required by the Firebase Database ANE",
 			"changelog":"",
 			"thumb":"DEPENDENCY/firebase-database/icon.png",
-			"path-ane":"DEPENDENCY/firebase-database/firebase_database.ane",
-			"path-swc":"DEPENDENCY/firebase-database/firebase_database.swc"
+			"path_ane":"DEPENDENCY/firebase-database/firebase_database.ane",
+			"path_swc":"DEPENDENCY/firebase-database/firebase_database.swc"
 		},
 		{
 			"name":"firebase_databaseConnection",
@@ -103,8 +103,8 @@
 			"desc":"Includes Android dependencies required by the Firebase Database ANE",
 			"changelog":"",
 			"thumb":"DEPENDENCY/firebase-database-connection/icon.png",
-			"path-ane":"DEPENDENCY/firebase-database-connection/firebase_databaseConnection.ane",
-			"path-swc":"DEPENDENCY/firebase-database-connection/firebase_databaseConnection.swc"
+			"path_ane":"DEPENDENCY/firebase-database-connection/firebase_databaseConnection.ane",
+			"path_swc":"DEPENDENCY/firebase-database-connection/firebase_databaseConnection.swc"
 		},
 		{
 			"name":"firebase_dynamicLinks",
@@ -113,8 +113,8 @@
 			"desc":"Includes Android dependencies required by the Firebase Dynamic Links ANE",
 			"changelog":"",
 			"thumb":"DEPENDENCY/firebase-dynamic-links/icon.png",
-			"path-ane":"DEPENDENCY/firebase-dynamic-links/firebase_dynamicLinks.ane",
-			"path-swc":"DEPENDENCY/firebase-dynamic-links/firebase_dynamicLinks.swc"
+			"path_ane":"DEPENDENCY/firebase-dynamic-links/firebase_dynamicLinks.ane",
+			"path_swc":"DEPENDENCY/firebase-dynamic-links/firebase_dynamicLinks.swc"
 		},
 		{
 			"name":"firebase_iid",
@@ -123,8 +123,8 @@
 			"desc":"Includes Android dependencies required by the Firebase Core ANE",
 			"changelog":"",
 			"thumb":"DEPENDENCY/firebase-iid/icon.png",
-			"path-ane":"DEPENDENCY/firebase-iid/firebase_iid.ane",
-			"path-swc":"DEPENDENCY/firebase-iid/firebase_iid.swc"
+			"path_ane":"DEPENDENCY/firebase-iid/firebase_iid.ane",
+			"path_swc":"DEPENDENCY/firebase-iid/firebase_iid.swc"
 		},
 		{
 			"name":"firebase_messaging",
@@ -133,8 +133,8 @@
 			"desc":"Includes Android dependencies required by the Firebase Messaging ANE",
 			"changelog":"",
 			"thumb":"DEPENDENCY/firebase-messaging/icon.png",
-			"path-ane":"DEPENDENCY/firebase-messaging/firebase_messaging.ane",
-			"path-swc":"DEPENDENCY/firebase-messaging/firebase_messaging.swc"
+			"path_ane":"DEPENDENCY/firebase-messaging/firebase_messaging.ane",
+			"path_swc":"DEPENDENCY/firebase-messaging/firebase_messaging.swc"
 		},
 		{
 			"name":"firebase_storage",
@@ -143,8 +143,8 @@
 			"desc":"Includes Android dependencies required by the Firebase Storage ANE",
 			"changelog":"",
 			"thumb":"DEPENDENCY/firebase-storage/icon.png",
-			"path-ane":"DEPENDENCY/firebase-storage/firebase_storage.ane",
-			"path-swc":"DEPENDENCY/firebase-storage/firebase_storage.swc"
+			"path_ane":"DEPENDENCY/firebase-storage/firebase_storage.ane",
+			"path_swc":"DEPENDENCY/firebase-storage/firebase_storage.swc"
 		},
 		{
 			"name":"firebase_storageCommon",
@@ -153,8 +153,8 @@
 			"desc":"Includes Android dependencies required by the Firebase Storage ANE",
 			"changelog":"",
 			"thumb":"DEPENDENCY/firebase-storage-common/icon.png",
-			"path-ane":"DEPENDENCY/firebase-storage-common/firebase_storageCommon.ane",
-			"path-swc":"DEPENDENCY/firebase-storage-common/firebase_storageCommon.swc"
+			"path_ane":"DEPENDENCY/firebase-storage-common/firebase_storageCommon.ane",
+			"path_swc":"DEPENDENCY/firebase-storage-common/firebase_storageCommon.swc"
 		},
 		{
 			"name":"gvr_common",
@@ -163,8 +163,8 @@
 			"desc":"Includes Android dependencies required by the Google VR ANE",
 			"changelog":"",
 			"thumb":"DEPENDENCY/gvr-common/icon.png",
-			"path-ane":"DEPENDENCY/gvr-common/gvr_common.ane",
-			"path-swc":"DEPENDENCY/gvr-common/gvr_common.swc"
+			"path_ane":"DEPENDENCY/gvr-common/gvr_common.ane",
+			"path_swc":"DEPENDENCY/gvr-common/gvr_common.swc"
 		},
 		{
 			"name":"gvr_commonwidget",
@@ -173,8 +173,8 @@
 			"desc":"Includes Android dependencies required by the Google VR ANE",
 			"changelog":"",
 			"thumb":"DEPENDENCY/gvr-commonwidget/icon.png",
-			"path-ane":"DEPENDENCY/gvr-commonwidget/gvr_commonwidget.ane",
-			"path-swc":"DEPENDENCY/gvr-commonwidget/gvr_commonwidget.swc"
+			"path_ane":"DEPENDENCY/gvr-commonwidget/gvr_commonwidget.ane",
+			"path_swc":"DEPENDENCY/gvr-commonwidget/gvr_commonwidget.swc"
 		},
 		{
 			"name":"gvr_panowidget",
@@ -183,8 +183,8 @@
 			"desc":"Includes Android dependencies required by the Google VR ANE",
 			"changelog":"",
 			"thumb":"DEPENDENCY/gvr-panowidget/icon.png",
-			"path-ane":"DEPENDENCY/gvr-panowidget/gvr_panowidget.ane",
-			"path-swc":"DEPENDENCY/gvr-panowidget/gvr_panowidget.swc"
+			"path_ane":"DEPENDENCY/gvr-panowidget/gvr_panowidget.ane",
+			"path_swc":"DEPENDENCY/gvr-panowidget/gvr_panowidget.swc"
 		},
 		{
 			"name":"gvr_videowidget",
@@ -193,8 +193,8 @@
 			"desc":"Includes Android dependencies required by the Google VR ANE",
 			"changelog":"",
 			"thumb":"DEPENDENCY/gvr-videowidget/icon.png",
-			"path-ane":"DEPENDENCY/gvr-videowidget/gvr_videowidget.ane",
-			"path-swc":"DEPENDENCY/gvr-videowidget/gvr_videowidget.swc"
+			"path_ane":"DEPENDENCY/gvr-videowidget/gvr_videowidget.ane",
+			"path_swc":"DEPENDENCY/gvr-videowidget/gvr_videowidget.swc"
 		},
 		{
 			"name":"overrideAir",
@@ -203,8 +203,8 @@
 			"desc":"Includes Android and iOS override methods for native functions to prevent ANE conflicts or ANE method hijacking.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/OverrideAdobe/icon.png",
-			"path-ane":"DEPENDENCY/OverrideAdobe/overrideAir.ane",
-			"path-swc":"DEPENDENCY/OverrideAdobe/overrideAir.swc"
+			"path_ane":"DEPENDENCY/OverrideAdobe/overrideAir.ane",
+			"path_swc":"DEPENDENCY/OverrideAdobe/overrideAir.swc"
 		},
 		{
 			"name":"googlePlayServices_ads",
@@ -213,8 +213,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-ads/icon.png",
-			"path-ane":"DEPENDENCY/play-services-ads/googlePlayServices_ads.ane",
-			"path-swc":"DEPENDENCY/play-services-ads/googlePlayServices_ads.swc"
+			"path_ane":"DEPENDENCY/play-services-ads/googlePlayServices_ads.ane",
+			"path_swc":"DEPENDENCY/play-services-ads/googlePlayServices_ads.swc"
 		},
 		{
 			"name":"googlePlayServices_adsLite",
@@ -223,8 +223,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-ads-lite/icon.png",
-			"path-ane":"DEPENDENCY/play-services-ads-lite/googlePlayServices_adsLite.ane",
-			"path-swc":"DEPENDENCY/play-services-ads-lite/googlePlayServices_adsLite.swc"
+			"path_ane":"DEPENDENCY/play-services-ads-lite/googlePlayServices_adsLite.ane",
+			"path_swc":"DEPENDENCY/play-services-ads-lite/googlePlayServices_adsLite.swc"
 		},
 		{
 			"name":"googlePlayServices_analytics",
@@ -233,8 +233,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-analytics/icon.png",
-			"path-ane":"DEPENDENCY/play-services-analytics/googlePlayServices_analytics.ane",
-			"path-swc":"DEPENDENCY/play-services-analytics/googlePlayServices_analytics.swc"
+			"path_ane":"DEPENDENCY/play-services-analytics/googlePlayServices_analytics.ane",
+			"path_swc":"DEPENDENCY/play-services-analytics/googlePlayServices_analytics.swc"
 		},
 		{
 			"name":"googlePlayServices_analyticsImpl",
@@ -243,8 +243,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-analytics-impl/icon.png",
-			"path-ane":"DEPENDENCY/play-services-analytics-impl/googlePlayServices_analyticsImpl.ane",
-			"path-swc":"DEPENDENCY/play-services-analytics-impl/googlePlayServices_analyticsImpl.swc"
+			"path_ane":"DEPENDENCY/play-services-analytics-impl/googlePlayServices_analyticsImpl.ane",
+			"path_swc":"DEPENDENCY/play-services-analytics-impl/googlePlayServices_analyticsImpl.swc"
 		},
 		{
 			"name":"googlePlayServices_appinvite",
@@ -253,8 +253,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-appinvite/icon.png",
-			"path-ane":"DEPENDENCY/play-services-appinvite/googlePlayServices_appinvite.ane",
-			"path-swc":"DEPENDENCY/play-services-appinvite/googlePlayServices_appinvite.swc"
+			"path_ane":"DEPENDENCY/play-services-appinvite/googlePlayServices_appinvite.ane",
+			"path_swc":"DEPENDENCY/play-services-appinvite/googlePlayServices_appinvite.swc"
 		},
 		{
 			"name":"googlePlayServices_auth",
@@ -263,8 +263,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-auth/icon.png",
-			"path-ane":"DEPENDENCY/play-services-auth/googlePlayServices_auth.ane",
-			"path-swc":"DEPENDENCY/play-services-auth/googlePlayServices_auth.swc"
+			"path_ane":"DEPENDENCY/play-services-auth/googlePlayServices_auth.ane",
+			"path_swc":"DEPENDENCY/play-services-auth/googlePlayServices_auth.swc"
 		},
 		{
 			"name":"googlePlayServices_authBase",
@@ -273,8 +273,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-auth-base/icon.png",
-			"path-ane":"DEPENDENCY/play-services-auth-base/googlePlayServices_authBase.ane",
-			"path-swc":"DEPENDENCY/play-services-auth-base/googlePlayServices_authBase.swc"
+			"path_ane":"DEPENDENCY/play-services-auth-base/googlePlayServices_authBase.ane",
+			"path_swc":"DEPENDENCY/play-services-auth-base/googlePlayServices_authBase.swc"
 		},
 		{
 			"name":"googlePlayServices_base",
@@ -283,8 +283,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-base/icon.png",
-			"path-ane":"DEPENDENCY/play-services-base/googlePlayServices_base.ane",
-			"path-swc":"DEPENDENCY/play-services-base/googlePlayServices_base.swc"
+			"path_ane":"DEPENDENCY/play-services-base/googlePlayServices_base.ane",
+			"path_swc":"DEPENDENCY/play-services-base/googlePlayServices_base.swc"
 		},
 		{
 			"name":"googlePlayServices_basement",
@@ -293,8 +293,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-basement/icon.png",
-			"path-ane":"DEPENDENCY/play-services-basement/googlePlayServices_basement.ane",
-			"path-swc":"DEPENDENCY/play-services-basement/googlePlayServices_basement.swc"
+			"path_ane":"DEPENDENCY/play-services-basement/googlePlayServices_basement.ane",
+			"path_swc":"DEPENDENCY/play-services-basement/googlePlayServices_basement.swc"
 		},
 		{
 			"name":"googlePlayServices_clearcut",
@@ -303,8 +303,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-clearcut/icon.png",
-			"path-ane":"DEPENDENCY/play-services-clearcut/googlePlayServices_clearcut.ane",
-			"path-swc":"DEPENDENCY/play-services-clearcut/googlePlayServices_clearcut.swc"
+			"path_ane":"DEPENDENCY/play-services-clearcut/googlePlayServices_clearcut.ane",
+			"path_swc":"DEPENDENCY/play-services-clearcut/googlePlayServices_clearcut.swc"
 		},
 		{
 			"name":"googlePlayServices_drive",
@@ -313,8 +313,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-drive/icon.png",
-			"path-ane":"DEPENDENCY/play-services-drive/googlePlayServices_drive.ane",
-			"path-swc":"DEPENDENCY/play-services-drive/googlePlayServices_drive.swc"
+			"path_ane":"DEPENDENCY/play-services-drive/googlePlayServices_drive.ane",
+			"path_swc":"DEPENDENCY/play-services-drive/googlePlayServices_drive.swc"
 		},
 		{
 			"name":"googlePlayServices_games",
@@ -323,8 +323,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-games/icon.png",
-			"path-ane":"DEPENDENCY/play-services-games/googlePlayServices_games.ane",
-			"path-swc":"DEPENDENCY/play-services-games/googlePlayServices_games.swc"
+			"path_ane":"DEPENDENCY/play-services-games/googlePlayServices_games.ane",
+			"path_swc":"DEPENDENCY/play-services-games/googlePlayServices_games.swc"
 		},
 		{
 			"name":"googlePlayServices_gass",
@@ -333,8 +333,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-gass/icon.png",
-			"path-ane":"DEPENDENCY/play-services-gass/googlePlayServices_gass.ane",
-			"path-swc":"DEPENDENCY/play-services-gass/googlePlayServices_gass.swc"
+			"path_ane":"DEPENDENCY/play-services-gass/googlePlayServices_gass.ane",
+			"path_swc":"DEPENDENCY/play-services-gass/googlePlayServices_gass.swc"
 		},
 		{
 			"name":"googlePlayServices_gcm",
@@ -343,8 +343,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-gcm/icon.png",
-			"path-ane":"DEPENDENCY/play-services-gcm/googlePlayServices_gcm.ane",
-			"path-swc":"DEPENDENCY/play-services-gcm/googlePlayServices_gcm.swc"
+			"path_ane":"DEPENDENCY/play-services-gcm/googlePlayServices_gcm.ane",
+			"path_swc":"DEPENDENCY/play-services-gcm/googlePlayServices_gcm.swc"
 		},
 		{
 			"name":"googlePlayServices_identity",
@@ -353,8 +353,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-identity/icon.png",
-			"path-ane":"DEPENDENCY/play-services-identity/googlePlayServices_identity.ane",
-			"path-swc":"DEPENDENCY/play-services-identity/googlePlayServices_identity.swc"
+			"path_ane":"DEPENDENCY/play-services-identity/googlePlayServices_identity.ane",
+			"path_swc":"DEPENDENCY/play-services-identity/googlePlayServices_identity.swc"
 		},
 		{
 			"name":"googlePlayServices_iid",
@@ -363,8 +363,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-iid/icon.png",
-			"path-ane":"DEPENDENCY/play-services-iid/googlePlayServices_iid.ane",
-			"path-swc":"DEPENDENCY/play-services-iid/googlePlayServices_iid.swc"
+			"path_ane":"DEPENDENCY/play-services-iid/googlePlayServices_iid.ane",
+			"path_swc":"DEPENDENCY/play-services-iid/googlePlayServices_iid.swc"
 		},
 		{
 			"name":"googlePlayServices_instantapps",
@@ -373,8 +373,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-instantapps/icon.png",
-			"path-ane":"DEPENDENCY/play-services-instantapps/googlePlayServices_instantapps.ane",
-			"path-swc":"DEPENDENCY/play-services-instantapps/googlePlayServices_instantapps.swc"
+			"path_ane":"DEPENDENCY/play-services-instantapps/googlePlayServices_instantapps.ane",
+			"path_swc":"DEPENDENCY/play-services-instantapps/googlePlayServices_instantapps.swc"
 		},
 		{
 			"name":"googlePlayServices_location",
@@ -383,8 +383,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-location/icon.png",
-			"path-ane":"DEPENDENCY/play-services-location/googlePlayServices_location.ane",
-			"path-swc":"DEPENDENCY/play-services-location/googlePlayServices_location.swc"
+			"path_ane":"DEPENDENCY/play-services-location/googlePlayServices_location.ane",
+			"path_swc":"DEPENDENCY/play-services-location/googlePlayServices_location.swc"
 		},
 		{
 			"name":"googlePlayServices_maps",
@@ -393,8 +393,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-maps/icon.png",
-			"path-ane":"DEPENDENCY/play-services-maps/googlePlayServices_maps.ane",
-			"path-swc":"DEPENDENCY/play-services-maps/googlePlayServices_maps.swc"
+			"path_ane":"DEPENDENCY/play-services-maps/googlePlayServices_maps.ane",
+			"path_swc":"DEPENDENCY/play-services-maps/googlePlayServices_maps.swc"
 		},
 		{
 			"name":"googlePlayServices_nearby",
@@ -403,8 +403,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-nearby/icon.png",
-			"path-ane":"DEPENDENCY/play-services-nearby/googlePlayServices_nearby.ane",
-			"path-swc":"DEPENDENCY/play-services-nearby/googlePlayServices_nearby.swc"
+			"path_ane":"DEPENDENCY/play-services-nearby/googlePlayServices_nearby.ane",
+			"path_swc":"DEPENDENCY/play-services-nearby/googlePlayServices_nearby.swc"
 		},
 		{
 			"name":"googlePlayServices_panorama",
@@ -413,8 +413,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-panorama/icon.png",
-			"path-ane":"DEPENDENCY/play-services-panorama/googlePlayServices_panorama.ane",
-			"path-swc":"DEPENDENCY/play-services-panorama/googlePlayServices_panorama.swc"
+			"path_ane":"DEPENDENCY/play-services-panorama/googlePlayServices_panorama.ane",
+			"path_swc":"DEPENDENCY/play-services-panorama/googlePlayServices_panorama.swc"
 		},
 		{
 			"name":"googlePlayServices_places",
@@ -423,8 +423,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-places/icon.png",
-			"path-ane":"DEPENDENCY/play-services-places/googlePlayServices_places.ane",
-			"path-swc":"DEPENDENCY/play-services-places/googlePlayServices_places.swc"
+			"path_ane":"DEPENDENCY/play-services-places/googlePlayServices_places.ane",
+			"path_swc":"DEPENDENCY/play-services-places/googlePlayServices_places.swc"
 		},
 		{
 			"name":"googlePlayServices_plus",
@@ -433,8 +433,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-plus/icon.png",
-			"path-ane":"DEPENDENCY/play-services-plus/googlePlayServices_plus.ane",
-			"path-swc":"DEPENDENCY/play-services-plus/googlePlayServices_plus.swc"
+			"path_ane":"DEPENDENCY/play-services-plus/googlePlayServices_plus.ane",
+			"path_swc":"DEPENDENCY/play-services-plus/googlePlayServices_plus.swc"
 		},
 		{
 			"name":"googlePlayServices_tasks",
@@ -443,8 +443,8 @@
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-tasks/icon.png",
-			"path-ane":"DEPENDENCY/play-services-tasks/googlePlayServices_tasks.ane",
-			"path-swc":"DEPENDENCY/play-services-tasks/googlePlayServices_tasks.swc"
+			"path_ane":"DEPENDENCY/play-services-tasks/googlePlayServices_tasks.ane",
+			"path_swc":"DEPENDENCY/play-services-tasks/googlePlayServices_tasks.swc"
 		}
 	]
 }
