@@ -7,6 +7,16 @@
 	},
 	"ANEs":[
 		{
+			"name":"googleVR",
+			"id":"com.myflashlab.air.extensions.googleVR",
+			"v":"2.2.0",
+			"desc":"Google Virtual Reality SDK for to Adobe AIR developers",
+			"changelog":"https://github.com/myflashlab/GoogleVR-ANE/blob/master/ChangeLog.txt",
+			"thumb":"googleVR/icon.png",
+			"path_ane":"googleVR/facebook.ane",
+			"path_swc":"googleVR/facebook.swc"
+		},
+		{
 			"name":"facebook",
 			"id":"com.myflashlab.air.extensions.facebook",
 			"v":"4.22.3",
