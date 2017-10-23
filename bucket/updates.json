@@ -13,8 +13,8 @@
 			"desc":"Google Virtual Reality SDK for to Adobe AIR developers",
 			"changelog":"https://github.com/myflashlab/GoogleVR-ANE/blob/master/ChangeLog.txt",
 			"thumb":"googleVR/icon.png",
-			"path_ane":"googleVR/facebook.ane",
-			"path_swc":"googleVR/facebook.swc"
+			"path_ane":"googleVR/googleVR.ane",
+			"path_swc":"googleVR/googleVR.swc"
 		},
 		{
 			"name":"facebook",
