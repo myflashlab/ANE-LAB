@@ -7,6 +7,16 @@
 	},
 	"ANEs":[
 		{
+			"name":"permissionCheck",
+			"id":"com.myflashlab.air.extensions.permissionCheck",
+			"v":"2.2.0",
+			"desc":"Check and request for permissions in your Adobe Air app ",
+			"changelog":"https://github.com/myflashlab/PermissionCheck-ANE/blob/master/ChangeLog.txt",
+			"thumb":"permissionCheck/icon.png",
+			"path_ane":"permissionCheck/permissionCheck.ane",
+			"path_swc":"permissionCheck/permissionCheck.swc"
+		},
+		{
 			"name":"googleVR",
 			"id":"com.myflashlab.air.extensions.googleVR",
 			"v":"2.2.0",
