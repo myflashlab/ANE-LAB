@@ -17,6 +17,16 @@
 			"path_swc":"firebase/core/firebaseCore.swc"
 		},
 		{
+			"name":"FirebaseDynamicLinks",
+			"id":"com.myflashlab.air.extensions.firebase.dynamicLinks",
+			"v":"5.1.2",
+			"desc":"Firebase DynamicLinks.",
+			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
+			"thumb":"firebase/dynamicLinks/icon.png",
+			"path_ane":"firebase/dynamicLinks/firebaseDynamicLinks.ane",
+			"path_swc":"firebase/dynamicLinks/firebaseDynamicLinks.swc"
+		},
+		{
 			"name":"FirebaseCrash",
 			"id":"com.myflashlab.air.extensions.firebase.crash",
 			"v":"5.1.2",
