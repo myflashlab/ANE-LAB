@@ -17,6 +17,16 @@
 			"path_swc":"firebase/core/firebaseCore.swc"
 		},
 		{
+			"name":"FirebaseCrash",
+			"id":"com.myflashlab.air.extensions.firebase.crash",
+			"v":"5.1.2",
+			"desc":"Firebase Crash.",
+			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
+			"thumb":"firebase/crash/icon.png",
+			"path_ane":"firebase/crash/firebaseCrash.ane",
+			"path_swc":"firebase/crash/firebaseCrash.swc"
+		},
+		{
 			"name":"FirebaseAuth",
 			"id":"com.myflashlab.air.extensions.firebase.auth",
 			"v":"5.1.2",
