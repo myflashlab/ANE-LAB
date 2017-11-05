@@ -17,7 +17,17 @@
 			"path_swc":"firebase/core/firebaseCore.swc"
 		},
 		{
-			"name":"firebaseRemoteConfig",
+			"name":"FirebaseStorage",
+			"id":"com.myflashlab.air.extensions.firebase.storage",
+			"v":"5.1.2",
+			"desc":"Firebase Storage.",
+			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
+			"thumb":"firebase/storage/icon.png",
+			"path_ane":"firebase/storage/firebaseStorage.ane",
+			"path_swc":"firebase/storage/firebaseStorage.swc"
+		},
+		{
+			"name":"FirebaseRemoteConfig",
 			"id":"com.myflashlab.air.extensions.firebase.remoteConfig",
 			"v":"5.1.2",
 			"desc":"Firebase RemoteConfig.",
@@ -27,7 +37,7 @@
 			"path_swc":"firebase/remoteConfig/firebaseRemoteConfig.swc"
 		},
 		{
-			"name":"firebaseDatabase",
+			"name":"FirebaseDatabase",
 			"id":"com.myflashlab.air.extensions.firebase.realtimeDB",
 			"v":"5.1.2",
 			"desc":"Firebase Database.",
@@ -37,7 +47,7 @@
 			"path_swc":"firebase/realtimeDB/firebaseDatabase.swc"
 		},
 		{
-			"name":"firebaseInvites",
+			"name":"FirebaseInvites",
 			"id":"com.myflashlab.air.extensions.firebase.invites",
 			"v":"5.1.2",
 			"desc":"Firebase Invites.",
@@ -47,7 +57,7 @@
 			"path_swc":"firebase/Invites/firebaseInvites.swc"
 		},
 		{
-			"name":"firebaseMessaging",
+			"name":"FirebaseMessaging",
 			"id":"com.myflashlab.air.extensions.firebase.fcm",
 			"v":"5.1.2",
 			"desc":"Firebase Messaging.",
