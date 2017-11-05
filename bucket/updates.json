@@ -7,6 +7,16 @@
 	},
 	"ANEs":[
 		{
+			"name":"GPS",
+			"id":"com.myflashlab.air.extensions.gps",
+			"v":"3.3.1",
+			"desc":"Gps air native extension will let you get current device gps location as fast as possible by automatically checking the best available provider.",
+			"changelog":"https://github.com/myflashlab/GPS-ANE/blob/master/ChangeLog.txt",
+			"thumb":"gps/icon.png",
+			"path_ane":"gps/gps.ane",
+			"path_swc":"gps/gps.swc"
+		},
+		{
 			"name":"GameServices",
 			"id":"com.myflashlab.air.extensions.gameServices",
 			"v":"2.2.2",
