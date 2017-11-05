@@ -17,6 +17,16 @@
 			"path_swc":"firebase/core/firebaseCore.swc"
 		},
 		{
+			"name":"firebaseMessaging",
+			"id":"com.myflashlab.air.extensions.firebase.fcm",
+			"v":"5.1.2",
+			"desc":"Firebase Messaging.",
+			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
+			"thumb":"firebase/fcm/icon.png",
+			"path_ane":"firebase/fcm/firebaseMessaging.ane",
+			"path_swc":"firebase/fcm/firebaseMessaging.swc"
+		},
+		{
 			"name":"FirebaseDynamicLinks",
 			"id":"com.myflashlab.air.extensions.firebase.dynamicLinks",
 			"v":"5.1.2",
