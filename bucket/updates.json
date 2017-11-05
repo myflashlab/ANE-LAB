@@ -17,6 +17,16 @@
 			"path_swc":"firebase/core/firebaseCore.swc"
 		},
 		{
+			"name":"firebaseDatabase",
+			"id":"com.myflashlab.air.extensions.firebase.realtimeDB",
+			"v":"5.1.2",
+			"desc":"Firebase Database.",
+			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
+			"thumb":"firebase/realtimeDB/icon.png",
+			"path_ane":"firebase/realtimeDB/firebaseDatabase.ane",
+			"path_swc":"firebase/realtimeDB/firebaseDatabase.swc"
+		},
+		{
 			"name":"firebaseInvites",
 			"id":"com.myflashlab.air.extensions.firebase.invites",
 			"v":"5.1.2",
