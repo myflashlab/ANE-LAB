@@ -17,6 +17,16 @@
 			"path_swc":"firebase/core/firebaseCore.swc"
 		},
 		{
+			"name":"firebaseInvites",
+			"id":"com.myflashlab.air.extensions.firebase.invites",
+			"v":"5.1.2",
+			"desc":"Firebase Invites.",
+			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
+			"thumb":"firebase/Invites/icon.png",
+			"path_ane":"firebase/Invites/firebaseInvites.ane",
+			"path_swc":"firebase/Invites/firebaseInvites.swc"
+		},
+		{
 			"name":"firebaseMessaging",
 			"id":"com.myflashlab.air.extensions.firebase.fcm",
 			"v":"5.1.2",
