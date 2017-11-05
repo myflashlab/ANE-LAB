@@ -7,6 +7,16 @@
 	},
 	"ANEs":[
 		{
+			"name":"GameServices",
+			"id":"com.myflashlab.air.extensions.gameServices",
+			"v":"2.2.2",
+			"desc":"Game Services Air native extension is supported on Android with a super easy interface so you can focus on your game logic and easily have access to all the cool features of this great library in your games.",
+			"changelog":"https://github.com/myflashlab/GameServices-ANE/blob/master/ChangeLog.txt",
+			"thumb":"GameServices/icon.png",
+			"path_ane":"GameServices/gameServices.ane",
+			"path_swc":"GameServices/gameServices.swc"
+		},
+		{
 			"name":"FirebaseCore",
 			"id":"com.myflashlab.air.extensions.firebase.core",
 			"v":"5.1.2",
@@ -144,7 +154,7 @@
 			"changelog":"https://github.com/myflashlab/AR-ANE-Samples/blob/master/ChangeLog.txt",
 			"thumb":"ar/icon.png",
 			"path_ane":"https://www.myflashlabs.com/anelab/ar.ane",
-			"path_swc":"https://www.myflashlabs.com/anelab/ar/admob.swc"
+			"path_swc":"https://www.myflashlabs.com/anelab/ar.swc"
 		},
 		{
 			"name":"admob",
