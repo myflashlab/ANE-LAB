@@ -7,6 +7,16 @@
 	},
 	"ANEs":[
 		{
+			"name":"Statusbar",
+			"id":"com.myflashlab.air.extensions.statusbar",
+			"v":"1.0.2",
+			"desc":"Control the Statusbar in your AIR apps in runtime with this AIR Native Extension",
+			"changelog":"https://github.com/myflashlab/Statusbar-ANE/blob/master/ChangeLog.txt",
+			"thumb":"statusbar/icon.png",
+			"path_ane":"statusbar/statusbar.ane",
+			"path_swc":"statusbar/statusbar.swc"
+		},
+		{
 			"name":"Spotlight",
 			"id":"com.myflashlab.air.extensions.spotlight",
 			"v":"1.0.2",
