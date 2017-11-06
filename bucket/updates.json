@@ -7,6 +7,16 @@
 	},
 	"ANEs":[
 		{
+			"name":"LocalNotification",
+			"id":"com.myflashlab.air.extensions.localNotification",
+			"v":"1.0.1",
+			"desc":"AIR Native Extension to let you schedule Local Notifications on iOS and Android",
+			"changelog":"https://github.com/myflashlab/LocalNotification-ANE/blob/master/ChangeLog.txt",
+			"thumb":"localNotification/icon.png",
+			"path_ane":"localNotification/localNotification.ane",
+			"path_swc":"localNotification/localNotification.swc"
+		},
+		{
 			"name":"In-app-payments",
 			"id":"com.myflashlab.air.extensions.billing",
 			"v":"2.2.3",
