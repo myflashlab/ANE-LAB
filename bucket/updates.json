@@ -7,6 +7,16 @@
 	},
 	"ANEs":[
 		{
+			"name":"In-app-payments",
+			"id":"com.myflashlab.air.extensions.billing",
+			"v":"2.2.3",
+			"desc":"Identical in-app-billing and in-app-purchase Air Native Extension for Android and iOS",
+			"changelog":"https://github.com/myflashlab/inAppPayments-ANE/blob/master/ChangeLog.txt",
+			"thumb":"inAppPayments/icon.png",
+			"path_ane":"inAppPayments/inAppPayments.ane",
+			"path_swc":"inAppPayments/inAppPayments.swc"
+		},
+		{
 			"name":"GPS",
 			"id":"com.myflashlab.air.extensions.gps",
 			"v":"3.3.1",
