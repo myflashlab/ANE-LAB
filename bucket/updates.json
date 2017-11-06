@@ -7,6 +7,16 @@
 	},
 	"ANEs":[
 		{
+			"name":"RateMe",
+			"id":"com.myflashlab.air.extensions.rateMe",
+			"v":"1.1.2",
+			"desc":"Rate Me Air Native Extension lets you ask your users to rate your app in the most efficient way. i.e you can make sure you are asking for users feedback only when you are sure that they have found your app interesting and are using it frequently.",
+			"changelog":"https://github.com/myflashlab/RateMe-ANE/blob/master/ChangeLog.txt",
+			"thumb":"rateMe/icon.png",
+			"path_ane":"rateMe/rateMe.ane",
+			"path_swc":"rateMe/rateMe.swc"
+		},
+		{
 			"name":"PDFViewer",
 			"id":"com.myflashlab.air.extensions.pdfViewer",
 			"v":"2.1.2",
