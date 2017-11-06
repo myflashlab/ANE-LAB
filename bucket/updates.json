@@ -7,6 +7,16 @@
 	},
 	"ANEs":[
 		{
+			"name":"Spotlight",
+			"id":"com.myflashlab.air.extensions.spotlight",
+			"v":"1.0.2",
+			"desc":"Spotlight ANE brings iOS 9 spotlight library to Adobe Air applications. With this ANE, you can index search items at runtime and even from user generated content. ",
+			"changelog":"https://github.com/myflashlab/Spotlight-ANE/blob/master/ChangeLog.txt",
+			"thumb":"spotlight/icon.png",
+			"path_ane":"spotlight/spotlight.ane",
+			"path_swc":"spotlight/spotlight.swc"
+		},
+		{
 			"name":"RateMe",
 			"id":"com.myflashlab.air.extensions.rateMe",
 			"v":"1.1.2",
