@@ -7,6 +7,16 @@
 	},
 	"ANEs":[
 		{
+			"name":"PDFViewer",
+			"id":"com.myflashlab.air.extensions.pdfViewer",
+			"v":"2.1.2",
+			"desc":"Pdf Viewer air native extension lets you open pdf files from your Adobe Air mobile apps. Supported on Android and iOS",
+			"changelog":"https://github.com/myflashlab/PDF-ANE/blob/master/ChangeLog.txt",
+			"thumb":"pdfViewer/icon.png",
+			"path_ane":"pdfViewer/pdfViewer.ane",
+			"path_swc":"pdfViewer/pdfViewer.swc"
+		},
+		{
 			"name":"LocalNotification",
 			"id":"com.myflashlab.air.extensions.localNotification",
 			"v":"1.0.1",
