@@ -7,6 +7,16 @@
 	},
 	"ANEs":[
 		{
+			"name":"RichWebview",
+			"id":"com.myflashlab.air.extensions.webView",
+			"v":"7.1.2",
+			"desc":"A perfect replacement to the classic StageWebView and it allows you to easily call Javascript functions from AIR and send String messages from JS to AIR.",
+			"changelog":"https://github.com/myflashlab/webView-ANE/blob/master/ChangeLog.txt",
+			"thumb":"webView/icon.png",
+			"path_ane":"webView/richWebView.ane",
+			"path_swc":"webView/richWebView.swc"
+		},
+		{
 			"name":"volume",
 			"id":"com.myflashlab.air.extensions.volume",
 			"v":"2.0.1",
