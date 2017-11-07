@@ -7,6 +7,16 @@
 	},
 	"ANEs":[
 		{
+			"name":"ZipManager",
+			"id":"com.myflashlab.air.extensions.zipManager",
+			"v":"3.0.2",
+			"desc":"ZipManager air native extension will zip or unzip large zip archives super fast using native process in threads supporting both Android and iOS",
+			"changelog":"https://github.com/myflashlab/zipManager-ANE/blob/master/ChangeLog.txt",
+			"thumb":"zipManager/icon.png",
+			"path_ane":"zipManager/zipManagerExtension.ane",
+			"path_swc":"zipManager/zipManagerExtension.swc"
+		},
+		{
 			"name":"RichWebview",
 			"id":"com.myflashlab.air.extensions.webView",
 			"v":"7.1.2",
