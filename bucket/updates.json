@@ -7,6 +7,16 @@
 	},
 	"ANEs":[
 		{
+			"name":"volume",
+			"id":"com.myflashlab.air.extensions.volume",
+			"v":"2.0.1",
+			"desc":"Check if device is muted or not, Control the device volume, play Sounds with NO latency, request for audio focus in your app so background music will be stopped.",
+			"changelog":"https://github.com/myflashlab/VolumePro-ANE/blob/master/ChangeLog.txt",
+			"thumb":"volume/icon.png",
+			"path_ane":"volume/volume.ane",
+			"path_swc":"volume/volume.swc"
+		},
+		{
 			"name":"videoPlayerSurface",
 			"id":"com.myflashlab.air.extensions.videoPlayerSurface",
 			"v":"3.4.2",
