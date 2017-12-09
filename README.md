@@ -8,9 +8,9 @@ Developing with AIR platform is supposed to be fun. Right? We are doing our best
 
 To start using ANE-LAB download it from here:  
 
-MAC Users | WIN Users
+Mac OS X | Windows
 ------------ | -------------
-[aneLab.dmg](https://github.com/myflashlab/ANE-LAB/blob/master/bucket/aneLab.dmg) | [aneLab.exe](https://github.com/myflashlab/ANE-LAB/blob/master/bucket/aneLab.exe)
+[.DMG](https://github.com/myflashlab/ANE-LAB/blob/master/bucket/aneLab.dmg) | [.EXE](https://github.com/myflashlab/ANE-LAB/blob/master/bucket/aneLab.exe)
 
 ![ANE-LAB Beta-testers](https://i1.wp.com/www.myflashlabs.com/wp-content/uploads/2017/11/myflashlabs-ANE-LAB_beta-testing.jpg?w=1220&ssl=1)
 
