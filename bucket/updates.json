@@ -19,7 +19,7 @@
 		{
 			"name":"RichWebview",
 			"id":"com.myflashlab.air.extensions.webView",
-			"v":"7.1.2",
+			"v":"7.1.3",
 			"desc":"A perfect replacement to the classic StageWebView and it allows you to easily call Javascript functions from AIR and send String messages from JS to AIR.",
 			"changelog":"https://github.com/myflashlab/webView-ANE/blob/master/ChangeLog.txt",
 			"thumb":"webView/icon.png",
