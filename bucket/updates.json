@@ -12,6 +12,7 @@
 			"v":"3.0.2",
 			"desc":"ZipManager air native extension will zip or unzip large zip archives super fast using native process in threads supporting both Android and iOS",
 			"changelog":"https://github.com/myflashlab/zipManager-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"zipManager/icon.png",
 			"path_ane":"zipManager/zipManagerExtension.ane",
 			"path_swc":"zipManager/zipManagerExtension.swc"
@@ -22,6 +23,7 @@
 			"v":"7.1.3",
 			"desc":"A perfect replacement to the classic StageWebView and it allows you to easily call Javascript functions from AIR and send String messages from JS to AIR.",
 			"changelog":"https://github.com/myflashlab/webView-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"webView/icon.png",
 			"path_ane":"webView/richWebView.ane",
 			"path_swc":"webView/richWebView.swc"
@@ -32,6 +34,7 @@
 			"v":"2.0.1",
 			"desc":"Check if device is muted or not, Control the device volume, play Sounds with NO latency, request for audio focus in your app so background music will be stopped.",
 			"changelog":"https://github.com/myflashlab/VolumePro-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"volume/icon.png",
 			"path_ane":"volume/volume.ane",
 			"path_swc":"volume/volume.swc"
@@ -42,6 +45,7 @@
 			"v":"3.4.2",
 			"desc":"SurfacePlayer air native extension helps you play video files inside your air mobile projects and you can control the position of the player by setting x, y, width and height parameters.",
 			"changelog":"https://github.com/myflashlab/surfaceVideoPlayer-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"videoPlayerSurface/icon.png",
 			"path_ane":"videoPlayerSurface/videoPlayerSurface.ane",
 			"path_swc":"videoPlayerSurface/videoPlayerSurface.swc"
@@ -52,6 +56,7 @@
 			"v":"3.0.2",
 			"desc":"video player air native extension supported on Android and iOS. it let's you play video files in native players, locally or online.",
 			"changelog":"https://github.com/myflashlab/videoPlayer-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"videoPlayer/icon.png",
 			"path_ane":"videoPlayer/videoPlayerExtension.ane",
 			"path_swc":"videoPlayer/videoPlayerExtension.swc"
@@ -62,6 +67,7 @@
 			"v":"1.1.3",
 			"desc":"Use this AIR Native Extension to obtain a unique device ID in your Adobe AIR app. Supported on Android and iOS",
 			"changelog":"https://github.com/myflashlab/UDID-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"UDID/icon.png",
 			"path_ane":"UDID/UDID.ane",
 			"path_swc":"UDID/UDID.swc",
@@ -75,6 +81,7 @@
 			"v":"1.0.2",
 			"desc":"Control the Statusbar in your AIR apps in runtime with this AIR Native Extension",
 			"changelog":"https://github.com/myflashlab/Statusbar-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"statusbar/icon.png",
 			"path_ane":"statusbar/statusbar.ane",
 			"path_swc":"statusbar/statusbar.swc"
@@ -85,6 +92,7 @@
 			"v":"1.0.2",
 			"desc":"Spotlight ANE brings iOS 9 spotlight library to Adobe Air applications. With this ANE, you can index search items at runtime and even from user generated content. ",
 			"changelog":"https://github.com/myflashlab/Spotlight-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"spotlight/icon.png",
 			"path_ane":"spotlight/spotlight.ane",
 			"path_swc":"spotlight/spotlight.swc"
@@ -95,6 +103,7 @@
 			"v":"1.1.2",
 			"desc":"Rate Me Air Native Extension lets you ask your users to rate your app in the most efficient way. i.e you can make sure you are asking for users feedback only when you are sure that they have found your app interesting and are using it frequently.",
 			"changelog":"https://github.com/myflashlab/RateMe-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"rateMe/icon.png",
 			"path_ane":"rateMe/rateMe.ane",
 			"path_swc":"rateMe/rateMe.swc"
@@ -105,6 +114,7 @@
 			"v":"2.1.2",
 			"desc":"Pdf Viewer air native extension lets you open pdf files from your Adobe Air mobile apps. Supported on Android and iOS",
 			"changelog":"https://github.com/myflashlab/PDF-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"pdfViewer/icon.png",
 			"path_ane":"pdfViewer/pdfViewer.ane",
 			"path_swc":"pdfViewer/pdfViewer.swc"
@@ -115,6 +125,7 @@
 			"v":"1.0.1",
 			"desc":"AIR Native Extension to let you schedule Local Notifications on iOS and Android",
 			"changelog":"https://github.com/myflashlab/LocalNotification-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"localNotification/icon.png",
 			"path_ane":"localNotification/localNotification.ane",
 			"path_swc":"localNotification/localNotification.swc"
@@ -125,6 +136,7 @@
 			"v":"2.3.0",
 			"desc":"Identical in-app-billing and in-app-purchase Air Native Extension for Android and iOS",
 			"changelog":"https://github.com/myflashlab/inAppPayments-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"inAppPayments/icon.png",
 			"path_ane":"inAppPayments/inAppPayments.ane",
 			"path_swc":"inAppPayments/inAppPayments.swc"
@@ -135,6 +147,7 @@
 			"v":"3.3.2",
 			"desc":"Gps air native extension will let you get current device gps location as fast as possible by automatically checking the best available provider.",
 			"changelog":"https://github.com/myflashlab/GPS-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"gps/icon.png",
 			"path_ane":"gps/gps.ane",
 			"path_swc":"gps/gps.swc"
@@ -145,6 +158,7 @@
 			"v":"2.2.3",
 			"desc":"Game Services Air native extension is supported on Android with a super easy interface so you can focus on your game logic and easily have access to all the cool features of this great library in your games.",
 			"changelog":"https://github.com/myflashlab/GameServices-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"GameServices/icon.png",
 			"path_ane":"GameServices/gameServices.ane",
 			"path_swc":"GameServices/gameServices.swc"
@@ -155,6 +169,7 @@
 			"v":"6.0.0",
 			"desc":"Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"firebase/core/icon.png",
 			"path_ane":"firebase/core/firebaseCore.ane",
 			"path_swc":"firebase/core/firebaseCore.swc"
@@ -165,6 +180,7 @@
 			"v":"6.0.0",
 			"desc":"Firebase Storage.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"firebase/storage/icon.png",
 			"path_ane":"firebase/storage/firebaseStorage.ane",
 			"path_swc":"firebase/storage/firebaseStorage.swc"
@@ -175,6 +191,7 @@
 			"v":"6.0.0",
 			"desc":"Firebase RemoteConfig.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"firebase/remoteConfig/icon.png",
 			"path_ane":"firebase/remoteConfig/firebaseRemoteConfig.ane",
 			"path_swc":"firebase/remoteConfig/firebaseRemoteConfig.swc"
@@ -185,6 +202,7 @@
 			"v":"6.0.0",
 			"desc":"Firebase Database.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"firebase/realtimeDB/icon.png",
 			"path_ane":"firebase/realtimeDB/firebaseDatabase.ane",
 			"path_swc":"firebase/realtimeDB/firebaseDatabase.swc"
@@ -195,6 +213,7 @@
 			"v":"6.0.0",
 			"desc":"Firebase Invites.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"firebase/Invites/icon.png",
 			"path_ane":"firebase/Invites/firebaseInvites.ane",
 			"path_swc":"firebase/Invites/firebaseInvites.swc"
@@ -205,6 +224,7 @@
 			"v":"6.0.0",
 			"desc":"Firebase Messaging.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"firebase/fcm/icon.png",
 			"path_ane":"firebase/fcm/firebaseMessaging.ane",
 			"path_swc":"firebase/fcm/firebaseMessaging.swc"
@@ -215,6 +235,7 @@
 			"v":"6.0.0",
 			"desc":"Firebase DynamicLinks.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"firebase/dynamicLinks/icon.png",
 			"path_ane":"firebase/dynamicLinks/firebaseDynamicLinks.ane",
 			"path_swc":"firebase/dynamicLinks/firebaseDynamicLinks.swc"
@@ -225,6 +246,7 @@
 			"v":"6.0.0",
 			"desc":"Firebase Crash.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"firebase/crash/icon.png",
 			"path_ane":"firebase/crash/firebaseCrash.ane",
 			"path_swc":"firebase/crash/firebaseCrash.swc"
@@ -235,6 +257,7 @@
 			"v":"6.0.0",
 			"desc":"Firebase Auth.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"firebase/auth/icon.png",
 			"path_ane":"firebase/auth/firebaseAuth.ane",
 			"path_swc":"firebase/auth/firebaseAuth.swc"
@@ -245,6 +268,7 @@
 			"v":"6.0.0",
 			"desc":"Firebase Analytics.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"firebase/analytics/icon.png",
 			"path_ane":"firebase/analytics/firebaseAnalytics.ane",
 			"path_swc":"firebase/analytics/firebaseAnalytics.swc"
@@ -255,6 +279,7 @@
 			"v":"6.0.0",
 			"desc":"Firebase Firestore.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"firebase/firestore/icon.png",
 			"path_ane":"firebase/firestore/firebaseFirestore.ane",
 			"path_swc":"firebase/firestore/firebaseFirestore.swc"
@@ -265,6 +290,7 @@
 			"v":"4.1.3",
 			"desc":"FileChooser is a very easy to work air native extension to let you choose a file from your device to be able to use it inside your Adobe Air project",
 			"changelog":"https://github.com/myflashlab/fileChooser-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"fileBrowser/icon.png",
 			"path_ane":"fileBrowser/fileChooserExtension.ane",
 			"path_swc":"fileBrowser/fileChooserExtension.swc"
@@ -275,6 +301,7 @@
 			"v":"3.4.4",
 			"desc":"Scan almost any barcode type with this super fast barcode scanner air native extension",
 			"changelog":"https://github.com/myflashlab/barcode-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"barcode/icon.png",
 			"path_ane":"barcode/barcode.ane",
 			"path_swc":"barcode/barcode.swc"
@@ -285,6 +312,7 @@
 			"v":"1.1.1",
 			"desc":"control the iOS badge value directly from Adobe AIR app",
 			"changelog":"https://github.com/myflashlab/Badge-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"badge/icon.png",
 			"path_ane":"badge/badge.ane",
 			"path_swc":"badge/badge.swc"
@@ -295,6 +323,7 @@
 			"v":"1.0.2",
 			"desc":"Augmented Reality Air Native Extension supporting Android and iOS based on Wikitude SDK ",
 			"changelog":"https://github.com/myflashlab/AR-ANE-Samples/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"ar/icon.png",
 			"path_ane":"https://www.myflashlabs.com/anelab/ar102.ane",
 			"path_swc":"https://www.myflashlabs.com/anelab/ar102.swc"
@@ -305,6 +334,7 @@
 			"v":"2.5.0",
 			"desc":"Admob Air native Extension",
 			"changelog":"https://github.com/myflashlab/Admob-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"admob/icon.png",
 			"path_ane":"admob/admob.ane",
 			"path_swc":"admob/admob.swc"
@@ -315,6 +345,7 @@
 			"v":"2.2.2",
 			"desc":"Check and request for permissions in your Adobe Air app",
 			"changelog":"https://github.com/myflashlab/PermissionCheck-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"permissionCheck/icon.png",
 			"path_ane":"permissionCheck/permissionCheck.ane",
 			"path_swc":"permissionCheck/permissionCheck.swc"
@@ -325,6 +356,7 @@
 			"v":"3.0.0",
 			"desc":"Google Virtual Reality SDK for to Adobe AIR developers",
 			"changelog":"https://github.com/myflashlab/GoogleVR-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"googleVR/icon.png",
 			"path_ane":"googleVR/googleVR.ane",
 			"path_swc":"googleVR/googleVR.swc"
@@ -335,6 +367,7 @@
 			"v":"4.22.5",
 			"desc":"This air native extension is your best solution to integrate Facebook SDK into your AdobeAir apps",
 			"changelog":"https://github.com/myflashlab/facebook-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
 			"thumb":"facebook/icon.png",
 			"path_ane":"facebook/facebook.ane",
 			"path_swc":"facebook/facebook.swc"
@@ -345,6 +378,7 @@
 			"v":"26.0.2",
 			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/AndroidSupport/icon.png",
 			"path_ane":"DEPENDENCY/AndroidSupport/androidSupport.ane",
 			"path_swc":"DEPENDENCY/AndroidSupport/androidSupport.swc"
@@ -355,6 +389,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies required by the Firebase Analytics ANE",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/firebase-analytics/icon.png",
 			"path_ane":"DEPENDENCY/firebase-analytics/firebase-analytics.ane",
 			"path_swc":"DEPENDENCY/firebase-analytics/firebase-analytics.swc"
@@ -365,6 +400,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies required by the Firebase Analytics ANE",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/firebase-analytics-impl/icon.png",
 			"path_ane":"DEPENDENCY/firebase-analytics-impl/firebase_analyticsImpl.ane",
 			"path_swc":"DEPENDENCY/firebase-analytics-impl/firebase_analyticsImpl.swc"
@@ -375,6 +411,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies required by the Firebase Core ANE",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/firebase-appindexing/icon.png",
 			"path_ane":"DEPENDENCY/firebase-appindexing/firebase_appindexing.ane",
 			"path_swc":"DEPENDENCY/firebase-appindexing/firebase_appindexing.swc"
@@ -385,6 +422,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies required by the Firebase Auth ANE",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/firebase-auth/icon.png",
 			"path_ane":"DEPENDENCY/firebase-auth/firebase_auth.ane",
 			"path_swc":"DEPENDENCY/firebase-auth/firebase_auth.swc"
@@ -395,6 +433,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies required by the Firebase Core ANE",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/firebase-common/icon.png",
 			"path_ane":"DEPENDENCY/firebase-common/firebase_common.ane",
 			"path_swc":"DEPENDENCY/firebase-common/firebase_common.swc"
@@ -405,6 +444,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies required by the Firebase Remote Config ANE",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/firebase-config/icon.png",
 			"path_ane":"DEPENDENCY/firebase-config/firebase_config.ane",
 			"path_swc":"DEPENDENCY/firebase-config/firebase_config.swc"
@@ -415,6 +455,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies required by the Firebase Crash ANE",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/firebase-crash/icon.png",
 			"path_ane":"DEPENDENCY/firebase-crash/firebase_crash.ane",
 			"path_swc":"DEPENDENCY/firebase-crash/firebase_crash.swc"
@@ -425,6 +466,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies required by the Firebase Database ANE",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/firebase-database/icon.png",
 			"path_ane":"DEPENDENCY/firebase-database/firebase_database.ane",
 			"path_swc":"DEPENDENCY/firebase-database/firebase_database.swc"
@@ -435,6 +477,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies required by the Firebase Database ANE",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/firebase-database-connection/icon.png",
 			"path_ane":"DEPENDENCY/firebase-database-connection/firebase_databaseConnection.ane",
 			"path_swc":"DEPENDENCY/firebase-database-connection/firebase_databaseConnection.swc"
@@ -445,6 +488,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies required by the Firebase Dynamic Links ANE",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/firebase-dynamic-links/icon.png",
 			"path_ane":"DEPENDENCY/firebase-dynamic-links/firebase_dynamicLinks.ane",
 			"path_swc":"DEPENDENCY/firebase-dynamic-links/firebase_dynamicLinks.swc"
@@ -455,6 +499,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies required by the Firebase Firestore ANE",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/firebase-firestore/icon.png",
 			"path_ane":"DEPENDENCY/firebase-firestore/firebase_firestore.ane",
 			"path_swc":"DEPENDENCY/firebase-firestore/firebase_firestore.swc"
@@ -465,6 +510,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies required by the Firebase Core ANE",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/firebase-iid/icon.png",
 			"path_ane":"DEPENDENCY/firebase-iid/firebase_iid.ane",
 			"path_swc":"DEPENDENCY/firebase-iid/firebase_iid.swc"
@@ -475,6 +521,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies required by the Firebase Messaging ANE",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/firebase-messaging/icon.png",
 			"path_ane":"DEPENDENCY/firebase-messaging/firebase_messaging.ane",
 			"path_swc":"DEPENDENCY/firebase-messaging/firebase_messaging.swc"
@@ -485,6 +532,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies required by the Firebase Performance ANE",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/firebase-perf/icon.png",
 			"path_ane":"DEPENDENCY/firebase-perf/firebase_perf.ane",
 			"path_swc":"DEPENDENCY/firebase-perf/firebase_perf.swc"
@@ -495,6 +543,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies required by the Firebase Storage ANE",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/firebase-storage/icon.png",
 			"path_ane":"DEPENDENCY/firebase-storage/firebase_storage.ane",
 			"path_swc":"DEPENDENCY/firebase-storage/firebase_storage.swc"
@@ -505,6 +554,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies required by the Firebase Storage ANE",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/firebase-storage-common/icon.png",
 			"path_ane":"DEPENDENCY/firebase-storage-common/firebase_storageCommon.ane",
 			"path_swc":"DEPENDENCY/firebase-storage-common/firebase_storageCommon.swc"
@@ -515,6 +565,7 @@
 			"v":"1.70.0",
 			"desc":"Includes Android dependencies required by the Google VR ANE",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/gvr-base/icon.png",
 			"path_ane":"DEPENDENCY/gvr-base/gvr_base.ane",
 			"path_swc":"DEPENDENCY/gvr-base/gvr_base.swc"
@@ -525,6 +576,7 @@
 			"v":"1.70.0",
 			"desc":"Includes Android dependencies required by the Google VR ANE",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/gvr-common/icon.png",
 			"path_ane":"DEPENDENCY/gvr-common/gvr_common.ane",
 			"path_swc":"DEPENDENCY/gvr-common/gvr_common.swc"
@@ -535,6 +587,7 @@
 			"v":"1.70.0",
 			"desc":"Includes Android dependencies required by the Google VR ANE",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/gvr-commonwidget/icon.png",
 			"path_ane":"DEPENDENCY/gvr-commonwidget/gvr_commonwidget.ane",
 			"path_swc":"DEPENDENCY/gvr-commonwidget/gvr_commonwidget.swc"
@@ -545,6 +598,7 @@
 			"v":"1.70.0",
 			"desc":"Includes Android dependencies required by the Google VR ANE",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/gvr-panowidget/icon.png",
 			"path_ane":"DEPENDENCY/gvr-panowidget/gvr_panowidget.ane",
 			"path_swc":"DEPENDENCY/gvr-panowidget/gvr_panowidget.swc"
@@ -555,6 +609,7 @@
 			"v":"1.70.0",
 			"desc":"Includes Android dependencies required by the Google VR ANE",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/gvr-videowidget/icon.png",
 			"path_ane":"DEPENDENCY/gvr-videowidget/gvr_videowidget.ane",
 			"path_swc":"DEPENDENCY/gvr-videowidget/gvr_videowidget.swc"
@@ -565,6 +620,7 @@
 			"v":"5.1.0",
 			"desc":"Includes Android and iOS override methods for native functions to prevent ANE conflicts or ANE method hijacking.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/OverrideAdobe/icon.png",
 			"path_ane":"DEPENDENCY/OverrideAdobe/overrideAir.ane",
 			"path_swc":"DEPENDENCY/OverrideAdobe/overrideAir.swc"
@@ -575,6 +631,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/play-services-ads/icon.png",
 			"path_ane":"DEPENDENCY/play-services-ads/googlePlayServices_ads.ane",
 			"path_swc":"DEPENDENCY/play-services-ads/googlePlayServices_ads.swc"
@@ -585,6 +642,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/play-services-ads-lite/icon.png",
 			"path_ane":"DEPENDENCY/play-services-ads-lite/googlePlayServices_adsLite.ane",
 			"path_swc":"DEPENDENCY/play-services-ads-lite/googlePlayServices_adsLite.swc"
@@ -595,6 +653,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/play-services-analytics/icon.png",
 			"path_ane":"DEPENDENCY/play-services-analytics/googlePlayServices_analytics.ane",
 			"path_swc":"DEPENDENCY/play-services-analytics/googlePlayServices_analytics.swc"
@@ -605,6 +664,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/play-services-analytics-impl/icon.png",
 			"path_ane":"DEPENDENCY/play-services-analytics-impl/googlePlayServices_analyticsImpl.ane",
 			"path_swc":"DEPENDENCY/play-services-analytics-impl/googlePlayServices_analyticsImpl.swc"
@@ -615,6 +675,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/play-services-appinvite/icon.png",
 			"path_ane":"DEPENDENCY/play-services-appinvite/googlePlayServices_appinvite.ane",
 			"path_swc":"DEPENDENCY/play-services-appinvite/googlePlayServices_appinvite.swc"
@@ -625,6 +686,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/play-services-auth/icon.png",
 			"path_ane":"DEPENDENCY/play-services-auth/googlePlayServices_auth.ane",
 			"path_swc":"DEPENDENCY/play-services-auth/googlePlayServices_auth.swc"
@@ -635,6 +697,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/play-services-auth-base/icon.png",
 			"path_ane":"DEPENDENCY/play-services-auth-base/googlePlayServices_authBase.ane",
 			"path_swc":"DEPENDENCY/play-services-auth-base/googlePlayServices_authBase.swc"
@@ -645,6 +708,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/play-services-base/icon.png",
 			"path_ane":"DEPENDENCY/play-services-base/googlePlayServices_base.ane",
 			"path_swc":"DEPENDENCY/play-services-base/googlePlayServices_base.swc"
@@ -655,6 +719,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/play-services-basement/icon.png",
 			"path_ane":"DEPENDENCY/play-services-basement/googlePlayServices_basement.ane",
 			"path_swc":"DEPENDENCY/play-services-basement/googlePlayServices_basement.swc"
@@ -665,6 +730,7 @@
 			"v":"11.0.2",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/play-services-clearcut/icon.png",
 			"path_ane":"DEPENDENCY/play-services-clearcut/googlePlayServices_clearcut.ane",
 			"path_swc":"DEPENDENCY/play-services-clearcut/googlePlayServices_clearcut.swc"
@@ -675,6 +741,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/play-services-drive/icon.png",
 			"path_ane":"DEPENDENCY/play-services-drive/googlePlayServices_drive.ane",
 			"path_swc":"DEPENDENCY/play-services-drive/googlePlayServices_drive.swc"
@@ -685,6 +752,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/play-services-games/icon.png",
 			"path_ane":"DEPENDENCY/play-services-games/googlePlayServices_games.ane",
 			"path_swc":"DEPENDENCY/play-services-games/googlePlayServices_games.swc"
@@ -695,6 +763,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/play-services-gass/icon.png",
 			"path_ane":"DEPENDENCY/play-services-gass/googlePlayServices_gass.ane",
 			"path_swc":"DEPENDENCY/play-services-gass/googlePlayServices_gass.swc"
@@ -705,6 +774,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/play-services-gcm/icon.png",
 			"path_ane":"DEPENDENCY/play-services-gcm/googlePlayServices_gcm.ane",
 			"path_swc":"DEPENDENCY/play-services-gcm/googlePlayServices_gcm.swc"
@@ -715,6 +785,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/play-services-identity/icon.png",
 			"path_ane":"DEPENDENCY/play-services-identity/googlePlayServices_identity.ane",
 			"path_swc":"DEPENDENCY/play-services-identity/googlePlayServices_identity.swc"
@@ -725,6 +796,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/play-services-iid/icon.png",
 			"path_ane":"DEPENDENCY/play-services-iid/googlePlayServices_iid.ane",
 			"path_swc":"DEPENDENCY/play-services-iid/googlePlayServices_iid.swc"
@@ -735,6 +807,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/play-services-instantapps/icon.png",
 			"path_ane":"DEPENDENCY/play-services-instantapps/googlePlayServices_instantapps.ane",
 			"path_swc":"DEPENDENCY/play-services-instantapps/googlePlayServices_instantapps.swc"
@@ -745,6 +818,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/play-services-location/icon.png",
 			"path_ane":"DEPENDENCY/play-services-location/googlePlayServices_location.ane",
 			"path_swc":"DEPENDENCY/play-services-location/googlePlayServices_location.swc"
@@ -755,6 +829,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/play-services-maps/icon.png",
 			"path_ane":"DEPENDENCY/play-services-maps/googlePlayServices_maps.ane",
 			"path_swc":"DEPENDENCY/play-services-maps/googlePlayServices_maps.swc"
@@ -765,6 +840,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/play-services-nearby/icon.png",
 			"path_ane":"DEPENDENCY/play-services-nearby/googlePlayServices_nearby.ane",
 			"path_swc":"DEPENDENCY/play-services-nearby/googlePlayServices_nearby.swc"
@@ -785,6 +861,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/play-services-places/icon.png",
 			"path_ane":"DEPENDENCY/play-services-places/googlePlayServices_places.ane",
 			"path_swc":"DEPENDENCY/play-services-places/googlePlayServices_places.swc"
@@ -795,6 +872,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/play-services-plus/icon.png",
 			"path_ane":"DEPENDENCY/play-services-plus/googlePlayServices_plus.ane",
 			"path_swc":"DEPENDENCY/play-services-plus/googlePlayServices_plus.swc"
@@ -805,6 +883,7 @@
 			"v":"11.6.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
+			"isDependency":true,
 			"thumb":"DEPENDENCY/play-services-tasks/icon.png",
 			"path_ane":"DEPENDENCY/play-services-tasks/googlePlayServices_tasks.ane",
 			"path_swc":"DEPENDENCY/play-services-tasks/googlePlayServices_tasks.swc"
