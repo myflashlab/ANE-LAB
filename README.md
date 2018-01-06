@@ -11,7 +11,3 @@ To start using ANE-LAB download it from here:
 Mac OS X | Windows
 ------------ | -------------
 [.DMG](https://github.com/myflashlab/ANE-LAB/blob/master/bucket/aneLab.dmg) | [.EXE](https://github.com/myflashlab/ANE-LAB/blob/master/bucket/aneLab.exe)
-
-![ANE-LAB Beta-testers](https://i1.wp.com/www.myflashlabs.com/wp-content/uploads/2017/11/myflashlabs-ANE-LAB_beta-testing.jpg?w=1220&ssl=1)
-
-**NOTICE:** We will release the alpha version in a few days but before then, we need some beta testers. Please ask for access here: https://www.myflashlabs.com/contact/ and when you do, enter your MyFlashLabs username (or email address that you signed up with). Only club members are allowed to beta-test the ANE-LAB.
