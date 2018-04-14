@@ -386,7 +386,7 @@
 		{
 			"name":"AndroidSupport",
 			"id":"com.myflashlab.air.extensions.dependency.androidSupport",
-			"v":"26.0.2",
+			"v":"27.0.2",
 			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
 			"changelog":"",
 			"isDependency":true,
