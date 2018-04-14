@@ -397,7 +397,7 @@
 		{
 			"name":"firebase-analytics",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.analytics",
-			"v":"11.6.0",
+			"v":"12.0.1",
 			"desc":"Includes Android dependencies required by the Firebase Analytics ANE",
 			"changelog":"",
 			"isDependency":true,
@@ -408,7 +408,7 @@
 		{
 			"name":"firebase_analyticsImpl",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.analytics.impl",
-			"v":"11.6.0",
+			"v":"12.0.1",
 			"desc":"Includes Android dependencies required by the Firebase Analytics ANE",
 			"changelog":"",
 			"isDependency":true,
@@ -419,7 +419,7 @@
 		{
 			"name":"firebase_appindexing",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.appindexing",
-			"v":"11.6.0",
+			"v":"12.0.1",
 			"desc":"Includes Android dependencies required by the Firebase Core ANE",
 			"changelog":"",
 			"isDependency":true,
@@ -430,7 +430,7 @@
 		{
 			"name":"firebase_auth",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.auth",
-			"v":"11.6.0",
+			"v":"12.0.1",
 			"desc":"Includes Android dependencies required by the Firebase Auth ANE",
 			"changelog":"",
 			"isDependency":true,
@@ -441,7 +441,7 @@
 		{
 			"name":"firebase_common",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.common",
-			"v":"11.6.0",
+			"v":"12.0.1",
 			"desc":"Includes Android dependencies required by the Firebase Core ANE",
 			"changelog":"",
 			"isDependency":true,
@@ -452,7 +452,7 @@
 		{
 			"name":"firebase_config",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.config",
-			"v":"11.6.0",
+			"v":"12.0.1",
 			"desc":"Includes Android dependencies required by the Firebase Remote Config ANE",
 			"changelog":"",
 			"isDependency":true,
@@ -463,7 +463,7 @@
 		{
 			"name":"firebase_crash",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.crash",
-			"v":"11.6.0",
+			"v":"12.0.1",
 			"desc":"Includes Android dependencies required by the Firebase Crash ANE",
 			"changelog":"",
 			"isDependency":true,
@@ -474,7 +474,7 @@
 		{
 			"name":"firebase_database",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.database",
-			"v":"11.6.0",
+			"v":"12.0.1",
 			"desc":"Includes Android dependencies required by the Firebase Database ANE",
 			"changelog":"",
 			"isDependency":true,
@@ -485,7 +485,7 @@
 		{
 			"name":"firebase_databaseConnection",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.database.connection",
-			"v":"11.6.0",
+			"v":"12.0.1",
 			"desc":"Includes Android dependencies required by the Firebase Database ANE",
 			"changelog":"",
 			"isDependency":true,
@@ -496,7 +496,7 @@
 		{
 			"name":"firebase_dynamicLinks",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.dynamicLinks",
-			"v":"11.6.0",
+			"v":"12.0.1",
 			"desc":"Includes Android dependencies required by the Firebase Dynamic Links ANE",
 			"changelog":"",
 			"isDependency":true,
@@ -507,7 +507,7 @@
 		{
 			"name":"firebase_firestore",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.firestore",
-			"v":"11.6.0",
+			"v":"12.0.1",
 			"desc":"Includes Android dependencies required by the Firebase Firestore ANE",
 			"changelog":"",
 			"isDependency":true,
@@ -518,7 +518,7 @@
 		{
 			"name":"firebase_iid",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.iid",
-			"v":"11.6.0",
+			"v":"12.0.1",
 			"desc":"Includes Android dependencies required by the Firebase Core ANE",
 			"changelog":"",
 			"isDependency":true,
@@ -529,7 +529,7 @@
 		{
 			"name":"firebase_messaging",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.messaging",
-			"v":"11.6.0",
+			"v":"12.0.1",
 			"desc":"Includes Android dependencies required by the Firebase Messaging ANE",
 			"changelog":"",
 			"isDependency":true,
@@ -540,7 +540,7 @@
 		{
 			"name":"firebase_perf",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.perf",
-			"v":"11.6.0",
+			"v":"12.0.1",
 			"desc":"Includes Android dependencies required by the Firebase Performance ANE",
 			"changelog":"",
 			"isDependency":true,
@@ -551,7 +551,7 @@
 		{
 			"name":"firebase_storage",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.storage",
-			"v":"11.6.0",
+			"v":"12.0.1",
 			"desc":"Includes Android dependencies required by the Firebase Storage ANE",
 			"changelog":"",
 			"isDependency":true,
@@ -562,7 +562,7 @@
 		{
 			"name":"firebase_storageCommon",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.storage.common",
-			"v":"11.6.0",
+			"v":"12.0.1",
 			"desc":"Includes Android dependencies required by the Firebase Storage ANE",
 			"changelog":"",
 			"isDependency":true,
