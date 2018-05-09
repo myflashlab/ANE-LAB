@@ -144,7 +144,7 @@
 		{
 			"name":"In-app-payments",
 			"id":"com.myflashlab.air.extensions.billing",
-			"v":"2.3.0",
+			"v":"2.5.0",
 			"desc":"Identical in-app-billing and in-app-purchase Air Native Extension for Android and iOS",
 			"changelog":"https://github.com/myflashlab/inAppPayments-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
