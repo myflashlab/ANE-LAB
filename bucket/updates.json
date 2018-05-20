@@ -1,6 +1,6 @@
 {
 	"lab":{
-		"v":"1.1.17",
+		"v":"1.1.18",
 		"changelog":"",
 		"path_dmg":"aneLab.dmg",
 		"path_exe":"aneLab.exe"
@@ -254,13 +254,24 @@
 		{
 			"name":"FirebaseCrash",
 			"id":"com.myflashlab.air.extensions.firebase.crash",
-			"v":"6.5.0",
+			"v":"6.5.1",
 			"desc":"Firebase Crash.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
 			"thumb":"firebase/crash/icon.png",
 			"path_ane":"firebase/crash/firebaseCrash.ane",
 			"path_swc":"firebase/crash/firebaseCrash.swc"
+		},
+		{
+			"name":"FirebaseCrashlytics",
+			"id":"com.myflashlab.air.extensions.firebase.crashlytics",
+			"v":"6.5.0",
+			"desc":"Firebase Crashlytics.",
+			"changelog":"https://github.com/myflashlab/Firebase-ANE/blob/master/ChangeLog.txt",
+			"isDependency":false,
+			"thumb":"firebase/crashlytics/icon.png",
+			"path_ane":"firebase/crashlytics/firebaseCrashlytics.ane",
+			"path_swc":"firebase/crashlytics/firebaseCrashlytics.swc"
 		},
 		{
 			"name":"FirebaseAuth",
