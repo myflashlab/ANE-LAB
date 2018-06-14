@@ -353,7 +353,7 @@
 		{
 			"name":"admob",
 			"id":"com.myflashlab.air.extensions.admob",
-			"v":"2.7.0",
+			"v":"3.0.0",
 			"desc":"Admob Air native Extension",
 			"changelog":"https://github.com/myflashlab/Admob-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
