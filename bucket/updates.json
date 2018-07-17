@@ -64,7 +64,7 @@
 		{
 			"name":"VideoPlayer",
 			"id":"com.myflashlab.air.extensions.videoPlayer",
-			"v":"3.1.0",
+			"v":"3.2.0",
 			"desc":"video player air native extension supported on Android and iOS. it let's you play video files in native players, locally or online.",
 			"changelog":"https://github.com/myflashlab/videoPlayer-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
