@@ -122,7 +122,7 @@
 		{
 			"name":"PDFViewer",
 			"id":"com.myflashlab.air.extensions.pdfViewer",
-			"v":"2.2.0",
+			"v":"2.2.1",
 			"desc":"Pdf Viewer air native extension lets you open pdf files from your Adobe Air mobile apps. Supported on Android and iOS",
 			"changelog":"https://github.com/myflashlab/PDF-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
