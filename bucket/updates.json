@@ -406,6 +406,127 @@
 			"path_swc":"DEPENDENCY/AndroidSupport/androidSupport.swc"
 		},
 		{
+			"name":"AndroidSupport-appcompat-v7",
+			"id":"com.myflashlab.air.extensions.dependency.androidSupport.appcompatV7",
+			"v":"27.1.1",
+			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/AndroidSupport-appcompat-v7/icon.png",
+			"path_ane":"DEPENDENCY/AndroidSupport-appcompat-v7/androidSupport-appcompatV7.ane",
+			"path_swc":"DEPENDENCY/AndroidSupport-appcompat-v7/androidSupport-appcompatV7.swc"
+		},
+		{
+			"name":"AndroidSupport-arch",
+			"id":"com.myflashlab.air.extensions.dependency.androidSupport.arch",
+			"v":"1.1.1",
+			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/AndroidSupport-arch/icon.png",
+			"path_ane":"DEPENDENCY/AndroidSupport-arch/androidSupport-arch.ane",
+			"path_swc":"DEPENDENCY/AndroidSupport-arch/androidSupport-arch.swc"
+		},
+		{
+			"name":"AndroidSupport-cardview-v7",
+			"id":"com.myflashlab.air.extensions.dependency.androidSupport.cardviewV7",
+			"v":"27.1.1",
+			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/AndroidSupport-cardview-v7/icon.png",
+			"path_ane":"DEPENDENCY/AndroidSupport-cardview-v7/androidSupport-cardviewV7.ane",
+			"path_swc":"DEPENDENCY/AndroidSupport-cardview-v7/androidSupport-cardviewV7.swc"
+		},
+		{
+			"name":"AndroidSupport-core",
+			"id":"com.myflashlab.air.extensions.dependency.androidSupport.core",
+			"v":"27.1.1",
+			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/AndroidSupport-core/icon.png",
+			"path_ane":"DEPENDENCY/AndroidSupport-core/androidSupport-core.ane",
+			"path_swc":"DEPENDENCY/AndroidSupport-core/androidSupport-core.swc"
+		},
+		{
+			"name":"AndroidSupport-customtabs",
+			"id":"com.myflashlab.air.extensions.dependency.androidSupport.customtabs",
+			"v":"27.1.1",
+			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/AndroidSupport-customtabs/icon.png",
+			"path_ane":"DEPENDENCY/AndroidSupport-customtabs/androidSupport-customtabs.ane",
+			"path_swc":"DEPENDENCY/AndroidSupport-customtabs/androidSupport-customtabs.swc"
+		},
+		{
+			"name":"AndroidSupport-design",
+			"id":"com.myflashlab.air.extensions.dependency.androidSupport.design",
+			"v":"27.1.1",
+			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/AndroidSupport-design/icon.png",
+			"path_ane":"DEPENDENCY/AndroidSupport-design/androidSupport-design.ane",
+			"path_swc":"DEPENDENCY/AndroidSupport-design/androidSupport-design.swc"
+		},
+		{
+			"name":"AndroidSupport-exifinterface",
+			"id":"com.myflashlab.air.extensions.dependency.androidSupport.exifinterface",
+			"v":"27.1.1",
+			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/AndroidSupport-exifinterface/icon.png",
+			"path_ane":"DEPENDENCY/AndroidSupport-exifinterface/androidSupport-exifinterface.ane",
+			"path_swc":"DEPENDENCY/AndroidSupport-exifinterface/androidSupport-exifinterface.swc"
+		},
+		{
+			"name":"AndroidSupport-mediarouter-v7",
+			"id":"com.myflashlab.air.extensions.dependency.androidSupport.mediarouterV7",
+			"v":"27.1.1",
+			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/AndroidSupport-mediarouter-v7/icon.png",
+			"path_ane":"DEPENDENCY/AndroidSupport-mediarouter-v7/androidSupport-mediarouterV7.ane",
+			"path_swc":"DEPENDENCY/AndroidSupport-mediarouter-v7/androidSupport-mediarouterV7.swc"
+		},
+		{
+			"name":"AndroidSupport-v4",
+			"id":"com.myflashlab.air.extensions.dependency.androidSupport.v4",
+			"v":"27.1.1",
+			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/AndroidSupport-v4/icon.png",
+			"path_ane":"DEPENDENCY/AndroidSupport-v4/androidSupport-v4.ane",
+			"path_swc":"DEPENDENCY/AndroidSupport-v4/androidSupport-v4.swc"
+		},
+		{
+			"name":"AndroidSupport-v13",
+			"id":"com.myflashlab.air.extensions.dependency.androidSupport.v13",
+			"v":"27.1.1",
+			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/AndroidSupport-v13/icon.png",
+			"path_ane":"DEPENDENCY/AndroidSupport-v13/androidSupport-v13.ane",
+			"path_swc":"DEPENDENCY/AndroidSupport-v13/androidSupport-v13.swc"
+		},
+		{
+			"name":"Bolts",
+			"id":"com.myflashlab.air.extensions.dependency.bolts",
+			"v":"1.4.0",
+			"desc":"Bolts is a collection of low-level libraries designed to make developing mobile apps easier.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/bolts/icon.png",
+			"path_ane":"DEPENDENCY/bolts/bolts.ane",
+			"path_swc":"DEPENDENCY/bolts/bolts.swc"
+		},
+		{
 			"name":"firebase-analytics",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.analytics",
 			"v":"12.0.1",
