@@ -362,10 +362,21 @@
 			"path_swc":"https://www.myflashlabs.com/anelab/ar111.swc"
 		},
 		{
+			"name":"ADBMobile",
+			"id":"com.myflashlab.air.extensions.ADBMobile",
+			"v":"4.17.0",
+			"desc":"Adobe Mobile SDK for Experience Cloud Solutions for AIR native Extension",
+			"changelog":"https://github.com/myflashlab/ADBMobile#changelog",
+			"isDependency":false,
+			"thumb":"ADBMobile/icon.png",
+			"path_ane":"ADBMobile/ADBMobile.ane",
+			"path_swc":"ADBMobile/ADBMobile.swc"
+		},
+		{
 			"name":"admob",
 			"id":"com.myflashlab.air.extensions.admob",
 			"v":"4.0.0",
-			"desc":"Admob Air native Extension",
+			"desc":"Admob AIR native Extension",
 			"changelog":"https://github.com/myflashlab/Admob-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
 			"thumb":"admob/icon.png",
