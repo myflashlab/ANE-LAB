@@ -376,7 +376,7 @@
 			"name":"admob",
 			"id":"com.myflashlab.air.extensions.admob",
 			"v":"4.0.0",
-			"desc":"Admob AIR native Extension",
+			"desc":"Admob & DoubleClick SDKs for AdobeAIR users",
 			"changelog":"https://github.com/myflashlab/Admob-ANE/blob/master/ChangeLog.txt",
 			"isDependency":false,
 			"thumb":"admob/icon.png",
