@@ -353,13 +353,13 @@
 		{
 			"name":"AR",
 			"id":"com.myflashlab.air.extensions.ar",
-			"v":"1.1.1",
+			"v":"1.1.2",
 			"desc":"Augmented Reality Air Native Extension supporting Android and iOS based on Wikitude SDK ",
 			"changelog":"https://github.com/myflashlab/AR-ANE-Samples/blob/master/ChangeLog.txt",
 			"isDependency":false,
 			"thumb":"ar/icon.png",
-			"path_ane":"https://www.myflashlabs.com/anelab/ar111.ane",
-			"path_swc":"https://www.myflashlabs.com/anelab/ar111.swc"
+			"path_ane":"https://www.myflashlabs.com/anelab/ar112.ane",
+			"path_swc":"https://www.myflashlabs.com/anelab/ar112.swc"
 		},
 		{
 			"name":"ADBMobile",
