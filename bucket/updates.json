@@ -108,7 +108,7 @@
 		{
 			"name":"FirebaseAuth",
 			"id":"com.myflashlab.air.extensions.firebase.auth",
-			"v":"7.0.1",
+			"v":"7.0.2",
 			"desc":"Firebase Auth.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
