@@ -903,7 +903,7 @@
 		{
 			"name":"overrideAir",
 			"id":"com.myflashlab.air.extensions.dependency.overrideAir",
-			"v":"5.6.2",
+			"v":"5.6.3",
 			"desc":"Includes Android and iOS override methods for native functions to prevent ANE conflicts or ANE method hijacking.",
 			"changelog":"",
 			"isDependency":true,
