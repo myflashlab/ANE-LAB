@@ -419,13 +419,24 @@
 		{
 			"name":"RichWebview",
 			"id":"com.myflashlab.air.extensions.webView",
-			"v":"7.1.5",
+			"v":"7.1.6",
 			"desc":"A perfect replacement to the classic StageWebView and it allows you to easily call Javascript functions from AIR and send String messages from JS to AIR.",
 			"changelog":"https://github.com/myflashlab/webView-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
 			"thumb":"webView/icon.png",
 			"path_ane":"webView/richWebView.ane",
 			"path_swc":"webView/richWebView.swc"
+		},
+		{
+			"name":"RichWebview II",
+			"id":"com.myflashlab.air.extensions.richWebView",
+			"v":"8.0.0",
+			"desc":"RichWebView ANE gives you access to the native webview APIs in Android and iOS. Everything that a Native programmer can do with the native webview, you can also do in your AdobeAIR projects.",
+			"changelog":"https://github.com/myflashlab/RichWebView-ANE/raw/master/ChangeLog.md",
+			"isDependency":false,
+			"thumb":"richWebView/icon.png",
+			"path_ane":"richWebView/richWebView.ane",
+			"path_swc":"richWebView/richWebView.swc"
 		},
 		{
 			"name":"ZipManager",
