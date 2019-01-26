@@ -1,6 +1,6 @@
 {
 	"lab":{
-		"v":"1.1.30",
+		"v":"2.0.0",
 		"changelog":"",
 		"path_dmg":"aneLab.dmg",
 		"path_exe":"aneLab.exe"
@@ -304,6 +304,17 @@
 			"path_swc":"localNotification/localNotification.swc"
 		},
 		{
+			"name":"OneSignal",
+			"id":"com.myflashlab.air.extensions.onesignal",
+			"v":"0.0.34",
+			"desc":"AIR Native Extension to let you schedule Local Notifications on iOS and Android",
+			"changelog":"https://github.com/myflashlab/OneSignal-ANE/raw/master/ChangeLog.md",
+			"isDependency":false,
+			"thumb":"OneSignal/icon.png",
+			"path_ane":"OneSignal/onesignal.ane",
+			"path_swc":"OneSignal/onesignal.swc"
+		},
+		{
 			"name":"packageManager",
 			"id":"com.myflashlab.air.extensions.packageManager",
 			"v":"2.0.1",
@@ -328,7 +339,7 @@
 		{
 			"name":"permissionCheck",
 			"id":"com.myflashlab.air.extensions.permissionCheck",
-			"v":"3.0.1",
+			"v":"3.0.11",
 			"desc":"Check and request for permissions in your Adobe Air app",
 			"changelog":"https://github.com/myflashlab/PermissionCheck-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
