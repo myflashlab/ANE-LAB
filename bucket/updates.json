@@ -293,6 +293,17 @@
 			"path_swc":"inAppPayments/inAppPayments.swc"
 		},
 		{
+			"name":"LocalAuthentication",
+			"id":"com.myflashlab.air.extensions.localAuth",
+			"v":"0.0.1",
+			"desc":"local Fingerprint and Face Authentication ANE for AdobeAIR ",
+			"changelog":"https://github.com/myflashlab/LocalAuth-ANE/raw/master/ChangeLog.md",
+			"isDependency":false,
+			"thumb":"localAuth/icon.png",
+			"path_ane":"localAuth/localAuth.ane",
+			"path_swc":"localAuth/localAuth.swc"
+		},
+		{
 			"name":"LocalNotification",
 			"id":"com.myflashlab.air.extensions.localNotification",
 			"v":"2.0.2",
