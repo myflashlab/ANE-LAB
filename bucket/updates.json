@@ -295,7 +295,7 @@
 		{
 			"name":"LocalAuthentication",
 			"id":"com.myflashlab.air.extensions.localAuth",
-			"v":"0.0.1",
+			"v":"0.0.2",
 			"desc":"local Fingerprint and Face Authentication ANE for AdobeAIR ",
 			"changelog":"https://github.com/myflashlab/LocalAuth-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
