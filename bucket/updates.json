@@ -381,6 +381,17 @@
 			"path_swc":"rateMe/rateMe.swc"
 		},
 		{
+			"name":"Sensors",
+			"id":"com.myflashlab.air.extensions.sensors",
+			"v":"0.0.1",
+			"desc":"ANE for accessing the accelerometer and gyroscope sensors on Android and iOS",
+			"changelog":"https://github.com/myflashlab/Sensors-ANE/raw/master/ChangeLog.md",
+			"isDependency":false,
+			"thumb":"sensors/icon.png",
+			"path_ane":"sensors/sensors.ane",
+			"path_swc":"sensors/sensors.swc"
+		},
+		{
 			"name":"sharedPreferences",
 			"id":"com.myflashlab.air.extensions.sharedPreferences",
 			"v":"0.0.1",
