@@ -958,8 +958,8 @@
 		{
 			"name":"overrideAir",
 			"id":"com.myflashlab.air.extensions.dependency.overrideAir",
-			"v":"5.8.0",
-			"desc":"Includes Android and iOS override methods for native functions to prevent ANE conflicts or ANE method hijacking.",
+			"v":"6.0.0",
+			"desc":"Includes Android and iOS common dependency methods which all ANEs are depend on",
 			"changelog":"",
 			"isDependency":true,
 			"thumb":"DEPENDENCY/OverrideAdobe/icon.png",
