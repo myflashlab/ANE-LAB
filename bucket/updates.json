@@ -62,6 +62,17 @@
 			"path_swc":"barcode/barcode.swc"
 		},
 		{
+			"name":"battery",
+			"id":"com.myflashlab.air.extensions.battery",
+			"v":"0.0.1",
+			"desc":"AIR Native Extension to access various information about the battery of the device the app is running on.",
+			"changelog":"https://github.com/myflashlab/Battery-ANE/raw/master/ChangeLog.md",
+			"isDependency":false,
+			"thumb":"battery/icon.png",
+			"path_ane":"battery/battery.ane",
+			"path_swc":"battery/battery.swc"
+		},
+		{
 			"name":"CMD",
 			"id":"com.myflashlab.air.extensions.cmd",
 			"v":"1.0.1",
