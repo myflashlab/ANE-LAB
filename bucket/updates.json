@@ -449,7 +449,7 @@
 		{
 			"name":"Statusbar",
 			"id":"com.myflashlab.air.extensions.statusbar",
-			"v":"1.0.3",
+			"v":"1.1.0",
 			"desc":"Control the Statusbar in your AIR apps in runtime with this AIR Native Extension",
 			"changelog":"https://github.com/myflashlab/Statusbar-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -991,7 +991,7 @@
 		{
 			"name":"overrideAir",
 			"id":"com.myflashlab.air.extensions.dependency.overrideAir",
-			"v":"6.0.0",
+			"v":"6.1.0",
 			"desc":"Includes Android and iOS common dependency methods which all ANEs are depend on",
 			"changelog":"",
 			"isDependency":true,
