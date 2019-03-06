@@ -339,7 +339,7 @@
 		{
 			"name":"OneSignal",
 			"id":"com.myflashlab.air.extensions.onesignal",
-			"v":"0.0.34",
+			"v":"0.0.35",
 			"desc":"AIR Native Extension to let you schedule Local Notifications on iOS and Android",
 			"changelog":"https://github.com/myflashlab/OneSignal-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
