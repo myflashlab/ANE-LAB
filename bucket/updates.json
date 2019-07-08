@@ -205,6 +205,17 @@
 			"path_swc":"firebase/firestore/firebaseFirestore.swc"
 		},
 		{
+			"name":"FirebaseFunctions",
+			"id":"com.myflashlab.air.extensions.firebase.functions",
+			"v":"8.0.0",
+			"desc":"Firebase Functions.",
+			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
+			"isDependency":false,
+			"thumb":"firebase/functions/icon.png",
+			"path_ane":"firebase/functions/firebaseFunctions.ane",
+			"path_swc":"firebase/functions/firebaseFunctions.swc"
+		},
+		{
 			"name":"FirebaseInvites",
 			"id":"com.myflashlab.air.extensions.firebase.invites",
 			"v":"7.0.4",
