@@ -1,6 +1,6 @@
 {
 	"lab":{
-		"v":"3.1.11",
+		"v":"3.1.13",
 		"changelog":"",
 		"path_dmg":"aneLab.dmg",
 		"path_exe":"aneLab.exe"
@@ -482,7 +482,7 @@
 		{
 			"name":"UDID",
 			"id":"com.myflashlab.air.extensions.udid",
-			"v":"1.1.5",
+			"v":"1.1.51",
 			"desc":"Use this AIR Native Extension to obtain a unique device ID in your Adobe AIR app. Supported on Android and iOS",
 			"changelog":"https://github.com/myflashlab/UDID-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
