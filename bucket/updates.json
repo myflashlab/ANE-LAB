@@ -31,13 +31,13 @@
 		{
 			"name":"AR",
 			"id":"com.myflashlab.air.extensions.ar",
-			"v":"1.1.4",
+			"v":"1.1.41",
 			"desc":"Augmented Reality Air Native Extension supporting Android and iOS based on Wikitude SDK ",
 			"changelog":"https://github.com/myflashlab/AR-ANE-Samples/raw/master/ChangeLog.md",
 			"isDependency":false,
 			"thumb":"ar/icon.png",
-			"path_ane":"https://www.myflashlabs.com/anelab/ar114.ane",
-			"path_swc":"https://www.myflashlabs.com/anelab/ar114.swc"
+			"path_ane":"https://www.myflashlabs.com/anelab/ar1141.ane",
+			"path_swc":"https://www.myflashlabs.com/anelab/ar1141.swc"
 		},
 		{
 			"name":"badge",
