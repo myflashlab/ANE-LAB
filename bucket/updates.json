@@ -75,7 +75,7 @@
 		{
 			"name":"CMD",
 			"id":"com.myflashlab.air.extensions.cmd",
-			"v":"1.0.1",
+			"v":"1.0.11",
 			"desc":"Run Android command-line from your AIR app using this little AIR Native Extension",
 			"changelog":"https://github.com/myflashlab/CMD-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
