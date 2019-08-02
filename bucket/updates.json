@@ -53,7 +53,7 @@
 		{
 			"name":"barcode",
 			"id":"com.myflashlab.air.extensions.barcode",
-			"v":"3.4.7",
+			"v":"3.4.71",
 			"desc":"Scan almost any barcode type with this super fast barcode scanner air native extension",
 			"changelog":"https://github.com/myflashlab/barcode-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
