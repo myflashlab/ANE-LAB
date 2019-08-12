@@ -282,6 +282,17 @@
 			"path_swc":"firebase/storage/firebaseStorage.swc"
 		},
 		{
+			"name":"GameCenter",
+			"id":"com.myflashlab.air.extensions.gameCenter",
+			"v":"0.0.11",
+			"desc":"Support iOS GameKit known as GameCenter in your Adobe AIR app",
+			"changelog":"https://github.com/myflashlab/GameCenter-ANE/raw/master/ChangeLog.md",
+			"isDependency":false,
+			"thumb":"GameCenter/icon.png",
+			"path_ane":"GameCenter/gameCenter.ane",
+			"path_swc":"GameCenter/gameCenter.swc"
+		},
+		{
 			"name":"GameServices",
 			"id":"com.myflashlab.air.extensions.gameServices",
 			"v":"4.3.1",
