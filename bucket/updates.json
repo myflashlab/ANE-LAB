@@ -97,7 +97,7 @@
 		{
 			"name":"facebook",
 			"id":"com.myflashlab.air.extensions.facebook",
-			"v":"5.1.0",
+			"v":"5.5.1",
 			"desc":"Integrate the official native Facebook SDK into your AdobeAir apps",
 			"changelog":"https://github.com/myflashlab/facebook-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
