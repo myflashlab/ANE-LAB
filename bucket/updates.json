@@ -9,7 +9,7 @@
 		{
 			"name":"ADBMobile",
 			"id":"com.myflashlab.air.extensions.ADBMobile",
-			"v":"4.17.11",
+			"v":"4.18.0",
 			"desc":"Adobe Mobile SDK for Experience Cloud Solutions for AIR native Extension",
 			"changelog":"https://github.com/myflashlab/ADBMobile/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -20,7 +20,7 @@
 		{
 			"name":"admob",
 			"id":"com.myflashlab.air.extensions.admob",
-			"v":"4.1.11",
+			"v":"5.0.2",
 			"desc":"Admob & DoubleClick SDKs for AdobeAIR users",
 			"changelog":"https://github.com/myflashlab/Admob-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -29,15 +29,26 @@
 			"path_swc":"admob/admob.swc"
 		},
 		{
+			"name":"appleSignin",
+			"id":"com.myflashlab.air.extensions.appleSignIn",
+			"v":"1.0.1",
+			"desc":"Sign in with Apple makes it easy for users to sign in to your AIR apps using their Apple ID.",
+			"changelog":"https://github.com/myflashlab/AppleSigin-ANE/raw/master/ChangeLog.md",
+			"isDependency":false,
+			"thumb":"appleSignin/icon.png",
+			"path_ane":"appleSignin/appleSignIn.ane",
+			"path_swc":"appleSignin/appleSignIn.swc"
+		},
+		{
 			"name":"AR",
 			"id":"com.myflashlab.air.extensions.ar",
-			"v":"1.1.41",
+			"v":"2.0.2",
 			"desc":"Augmented Reality Air Native Extension supporting Android and iOS based on Wikitude SDK ",
 			"changelog":"https://github.com/myflashlab/AR-ANE-Samples/raw/master/ChangeLog.md",
 			"isDependency":false,
 			"thumb":"ar/icon.png",
-			"path_ane":"https://www.myflashlabs.com/anelab/ar1141.ane",
-			"path_swc":"https://www.myflashlabs.com/anelab/ar1141.swc"
+			"path_ane":"https://www.myflashlabs.com/anelab/ar202.ane",
+			"path_swc":"https://www.myflashlabs.com/anelab/ar202.swc"
 		},
 		{
 			"name":"badge",
@@ -53,7 +64,7 @@
 		{
 			"name":"barcode",
 			"id":"com.myflashlab.air.extensions.barcode",
-			"v":"3.4.71",
+			"v":"4.0.1",
 			"desc":"Scan almost any barcode type with this super fast barcode scanner air native extension",
 			"changelog":"https://github.com/myflashlab/barcode-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -97,7 +108,7 @@
 		{
 			"name":"facebook",
 			"id":"com.myflashlab.air.extensions.facebook",
-			"v":"5.5.1",
+			"v":"6.0.1",
 			"desc":"Integrate the official native Facebook SDK into your AdobeAir apps",
 			"changelog":"https://github.com/myflashlab/facebook-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -108,7 +119,7 @@
 		{
 			"name":"fileBrowser",
 			"id":"com.myflashlab.air.extensions.fileBrowser",
-			"v":"4.2.21",
+			"v":"5.0.1",
 			"desc":"FileChooser is a very easy to work air native extension to let you choose a file from your device to be able to use it inside your Adobe Air project",
 			"changelog":"https://github.com/myflashlab/fileChooser-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -119,7 +130,7 @@
 		{
 			"name":"FirebaseAnalytics",
 			"id":"com.myflashlab.air.extensions.firebase.analytics",
-			"v":"8.0.1",
+			"v":"9.0.2",
 			"desc":"Firebase Analytics.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -130,7 +141,7 @@
 		{
 			"name":"FirebaseAuth",
 			"id":"com.myflashlab.air.extensions.firebase.auth",
-			"v":"8.0.1",
+			"v":"9.0.2",
 			"desc":"Firebase Auth.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -141,7 +152,7 @@
 		{
 			"name":"FirebaseCore",
 			"id":"com.myflashlab.air.extensions.firebase.core",
-			"v":"8.0.1",
+			"v":"9.0.1",
 			"desc":"Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -163,7 +174,7 @@
 		{
 			"name":"FirebaseCrashlytics",
 			"id":"com.myflashlab.air.extensions.firebase.crashlytics",
-			"v":"8.0.1",
+			"v":"9.0.1",
 			"desc":"Firebase Crashlytics.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -174,7 +185,7 @@
 		{
 			"name":"FirebaseDynamicLinks",
 			"id":"com.myflashlab.air.extensions.firebase.dynamicLinks",
-			"v":"8.0.1",
+			"v":"9.0.2",
 			"desc":"Firebase DynamicLinks.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -185,18 +196,21 @@
 		{
 			"name":"FirebaseMessaging",
 			"id":"com.myflashlab.air.extensions.firebase.fcm",
-			"v":"8.0.1",
+			"v":"9.0.2",
 			"desc":"Firebase Messaging.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
 			"thumb":"firebase/fcm/icon.png",
 			"path_ane":"firebase/fcm/firebaseMessaging.ane",
-			"path_swc":"firebase/fcm/firebaseMessaging.swc"
+			"path_swc":"firebase/fcm/firebaseMessaging.swc",
+			"alternatives":[
+				"firebase/fcm/firebaseMessaging_UNUserNotificationCenterDelegate.ane"
+			]
 		},
 		{
 			"name":"FirebaseFirestore",
 			"id":"com.myflashlab.air.extensions.firebase.firestore",
-			"v":"8.0.1",
+			"v":"9.0.1",
 			"desc":"Firebase Firestore.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -207,7 +221,7 @@
 		{
 			"name":"FirebaseFunctions",
 			"id":"com.myflashlab.air.extensions.firebase.functions",
-			"v":"8.0.1",
+			"v":"9.0.1",
 			"desc":"Firebase Functions.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -240,7 +254,7 @@
 		{
 			"name":"FirebasePerformance",
 			"id":"com.myflashlab.air.extensions.firebase.performance",
-			"v":"8.0.1",
+			"v":"9.0.1",
 			"desc":"Firebase Performance.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -251,7 +265,7 @@
 		{
 			"name":"FirebaseDatabase",
 			"id":"com.myflashlab.air.extensions.firebase.realtimeDB",
-			"v":"8.0.1",
+			"v":"9.0.2",
 			"desc":"Firebase Database.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -262,7 +276,7 @@
 		{
 			"name":"FirebaseRemoteConfig",
 			"id":"com.myflashlab.air.extensions.firebase.remoteConfig",
-			"v":"8.0.1",
+			"v":"9.0.1",
 			"desc":"Firebase RemoteConfig.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -273,7 +287,7 @@
 		{
 			"name":"FirebaseStorage",
 			"id":"com.myflashlab.air.extensions.firebase.storage",
-			"v":"8.0.1",
+			"v":"9.0.1",
 			"desc":"Firebase Storage.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -295,7 +309,7 @@
 		{
 			"name":"GameServices",
 			"id":"com.myflashlab.air.extensions.gameServices",
-			"v":"4.3.1",
+			"v":"5.0.0",
 			"desc":"Game Services Air native extension is supported on Android with a super easy interface so you can focus on your game logic and easily have access to all the cool features of this great library in your games.",
 			"changelog":"https://github.com/myflashlab/GameServices-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -306,7 +320,7 @@
 		{
 			"name":"GoogleSignIn",
 			"id":"com.myflashlab.air.extensions.google.signin",
-			"v":"2.0.1",
+			"v":"3.0.0",
 			"desc":"GoogleSignIn AIR Native Extension lets you signin your users to your app using Google. Works on Android and iOS",
 			"changelog":"https://github.com/myflashlab/GoogleSignIn-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -328,7 +342,7 @@
 		{
 			"name":"GPS",
 			"id":"com.myflashlab.air.extensions.gps",
-			"v":"3.3.41",
+			"v":"4.0.1",
 			"desc":"Gps air native extension will let you get current device gps location as fast as possible by automatically checking the best available provider.",
 			"changelog":"https://github.com/myflashlab/GPS-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -350,7 +364,7 @@
 		{
 			"name":"LocalAuthentication",
 			"id":"com.myflashlab.air.extensions.localAuth",
-			"v":"0.0.21",
+			"v":"1.0.0",
 			"desc":"local Fingerprint and Face Authentication ANE for AdobeAIR ",
 			"changelog":"https://github.com/myflashlab/LocalAuth-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -361,7 +375,7 @@
 		{
 			"name":"LocalNotification",
 			"id":"com.myflashlab.air.extensions.localNotification",
-			"v":"2.1.0",
+			"v":"3.0.0",
 			"desc":"AIR Native Extension to let you schedule Local Notifications on iOS and Android",
 			"changelog":"https://github.com/myflashlab/LocalNotification-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -383,7 +397,7 @@
 		{
 			"name":"packageManager",
 			"id":"com.myflashlab.air.extensions.packageManager",
-			"v":"2.0.11",
+			"v":"3.0.0",
 			"desc":"AIR Native Extension to give you access to Android's PackageManager API",
 			"changelog":"https://github.com/myflashlab/packageManager-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -394,7 +408,7 @@
 		{
 			"name":"PDFViewer",
 			"id":"com.myflashlab.air.extensions.pdfViewer",
-			"v":"2.2.31",
+			"v":"3.0.0",
 			"desc":"Pdf Viewer air native extension lets you open pdf files from your Adobe Air mobile apps. Supported on Android and iOS",
 			"changelog":"https://github.com/myflashlab/PDF-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -405,7 +419,7 @@
 		{
 			"name":"permissionCheck",
 			"id":"com.myflashlab.air.extensions.permissionCheck",
-			"v":"3.1.1",
+			"v":"4.0.1",
 			"desc":"Check and request for permissions in your Adobe Air app",
 			"changelog":"https://github.com/myflashlab/PermissionCheck-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -493,7 +507,7 @@
 		{
 			"name":"UDID",
 			"id":"com.myflashlab.air.extensions.udid",
-			"v":"1.1.52",
+			"v":"2.0.2",
 			"desc":"Use this AIR Native Extension to obtain a unique device ID in your Adobe AIR app. Supported on Android and iOS",
 			"changelog":"https://github.com/myflashlab/UDID-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -505,9 +519,20 @@
 			]
 		},
 		{
+			"name":"vibration",
+			"id":"com.myflashlab.air.extensions.vibration",
+			"v":"0.0.11",
+			"desc":"Enables vibration for AdobeAIR",
+			"changelog":"https://github.com/myflashlab/vibration-ANE/raw/master/ChangeLog.md",
+			"isDependency":false,
+			"thumb":"vibration/icon.png",
+			"path_ane":"vibration/vibration.ane",
+			"path_swc":"vibration/vibration.swc"
+		},
+		{
 			"name":"VideoPlayer",
 			"id":"com.myflashlab.air.extensions.videoPlayer",
-			"v":"3.2.41",
+			"v":"4.0.0",
 			"desc":"video player air native extension supported on Android and iOS. it let's you play video files in native players, locally or online.",
 			"changelog":"https://github.com/myflashlab/videoPlayer-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -551,7 +576,7 @@
 		{
 			"name":"RichWebview II",
 			"id":"com.myflashlab.air.extensions.richWebView",
-			"v":"8.0.91",
+			"v":"9.0.2",
 			"desc":"RichWebView ANE gives you access to the native webview APIs in Android and iOS. Everything that a Native programmer can do with the native webview, you can also do in your AdobeAIR projects.",
 			"changelog":"https://github.com/myflashlab/RichWebView-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -692,6 +717,127 @@
 			"path_swc":"DEPENDENCY/AndroidSupport-v13/androidSupport-v13.swc"
 		},
 		{
+			"name":"androidx_arch",
+			"id":"com.myflashlab.air.extensions.dependency.androidx.arch",
+			"v":"1.1.0",
+			"desc":"AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. androidx packages fully replace the Support Library by providing feature parity and new libraries.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/androidx-arch/icon.png",
+			"path_ane":"DEPENDENCY/androidx-arch/androidx_arch.ane",
+			"path_swc":"DEPENDENCY/androidx-arch/androidx_arch.swc"
+		},
+		{
+			"name":"androidx_biometric",
+			"id":"com.myflashlab.air.extensions.dependency.androidx.biometric",
+			"v":"1.1.0",
+			"desc":"AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. androidx packages fully replace the Support Library by providing feature parity and new libraries.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/androidx-biometric/icon.png",
+			"path_ane":"DEPENDENCY/androidx-biometric/androidx_biometric.ane",
+			"path_swc":"DEPENDENCY/androidx-biometric/androidx_biometric.swc"
+		},
+		{
+			"name":"androidx_browser",
+			"id":"com.myflashlab.air.extensions.dependency.androidx.browser",
+			"v":"1.1.0",
+			"desc":"AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. androidx packages fully replace the Support Library by providing feature parity and new libraries.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/androidx-browser/icon.png",
+			"path_ane":"DEPENDENCY/androidx-browser/androidx_browser.ane",
+			"path_swc":"DEPENDENCY/androidx-browser/androidx_browser.swc"
+		},
+		{
+			"name":"androidx_cardview",
+			"id":"com.myflashlab.air.extensions.dependency.androidx.cardview",
+			"v":"1.1.0",
+			"desc":"AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. androidx packages fully replace the Support Library by providing feature parity and new libraries.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/androidx-cardview/icon.png",
+			"path_ane":"DEPENDENCY/androidx-cardview/androidx_cardview.ane",
+			"path_swc":"DEPENDENCY/androidx-cardview/androidx_cardview.swc"
+		},
+		{
+			"name":"androidx_core",
+			"id":"com.myflashlab.air.extensions.dependency.androidx.core",
+			"v":"1.1.0",
+			"desc":"AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. androidx packages fully replace the Support Library by providing feature parity and new libraries.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/androidx-core/icon.png",
+			"path_ane":"DEPENDENCY/androidx-core/androidx_core.ane",
+			"path_swc":"DEPENDENCY/androidx-core/androidx_core.swc"
+		},
+		{
+			"name":"androidx_design",
+			"id":"com.myflashlab.air.extensions.dependency.androidx.design",
+			"v":"1.1.0",
+			"desc":"AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. androidx packages fully replace the Support Library by providing feature parity and new libraries.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/androidx-design/icon.png",
+			"path_ane":"DEPENDENCY/androidx-design/androidx_design.ane",
+			"path_swc":"DEPENDENCY/androidx-design/androidx_design.swc"
+		},
+		{
+			"name":"androidx_exifinterface",
+			"id":"com.myflashlab.air.extensions.dependency.androidx.exifinterface",
+			"v":"1.1.0",
+			"desc":"AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. androidx packages fully replace the Support Library by providing feature parity and new libraries.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/androidx-exifinterface/icon.png",
+			"path_ane":"DEPENDENCY/androidx-exifinterface/androidx_exifinterface.ane",
+			"path_swc":"DEPENDENCY/androidx-exifinterface/androidx_exifinterface.swc"
+		},
+		{
+			"name":"androidx_lifecycle",
+			"id":"com.myflashlab.air.extensions.dependency.androidx.lifecycle",
+			"v":"1.1.0",
+			"desc":"AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. androidx packages fully replace the Support Library by providing feature parity and new libraries.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/androidx-lifecycle/icon.png",
+			"path_ane":"DEPENDENCY/androidx-lifecycle/androidx_lifecycle.ane",
+			"path_swc":"DEPENDENCY/androidx-lifecycle/androidx_lifecycle.swc"
+		},
+		{
+			"name":"androidx_mediarouter",
+			"id":"com.myflashlab.air.extensions.dependency.androidx.mediarouter",
+			"v":"1.1.0",
+			"desc":"AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. androidx packages fully replace the Support Library by providing feature parity and new libraries.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/androidx-mediarouter/icon.png",
+			"path_ane":"DEPENDENCY/androidx-mediarouter/androidx_mediarouter.ane",
+			"path_swc":"DEPENDENCY/androidx-mediarouter/androidx_mediarouter.swc"
+		},
+		{
+			"name":"androidx_utils",
+			"id":"com.myflashlab.air.extensions.dependency.androidx.utils",
+			"v":"1.1.0",
+			"desc":"AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. androidx packages fully replace the Support Library by providing feature parity and new libraries.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/androidx-utils/icon.png",
+			"path_ane":"DEPENDENCY/androidx-utils/androidx_utils.ane",
+			"path_swc":"DEPENDENCY/androidx-utils/androidx_utils.swc"
+		},
+		{
+			"name":"androidx_vector",
+			"id":"com.myflashlab.air.extensions.dependency.androidx.vector",
+			"v":"1.1.0",
+			"desc":"AndroidX is a major improvement to the original Android Support Library, which is no longer maintained. androidx packages fully replace the Support Library by providing feature parity and new libraries.",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/androidx-vector/icon.png",
+			"path_ane":"DEPENDENCY/androidx-vector/androidx_vector.ane",
+			"path_swc":"DEPENDENCY/androidx-vector/androidx_vector.swc"
+		},
+		{
 			"name":"Bolts",
 			"id":"com.myflashlab.air.extensions.dependency.bolts",
 			"v":"1.4.1",
@@ -705,7 +851,7 @@
 		{
 			"name":"firebase_abt",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.abt",
-			"v":"17.1.1",
+			"v":"19.0.0",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -725,9 +871,42 @@
 			"path_swc":"DEPENDENCY/firebase-addons/firebase_addons.swc"
 		},
 		{
+			"name":"firebase_addons_fcm",
+			"id":"com.myflashlab.air.extensions.dependency.firebase.addons.fcm",
+			"v":"3.0.0",
+			"desc":"Includes Android dependencies required by the Firebase ANEs",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/firebase-addons-fcm/icon.png",
+			"path_ane":"DEPENDENCY/firebase-addons-fcm/firebase_addons_fcm.ane",
+			"path_swc":"DEPENDENCY/firebase-addons-fcm/firebase_addons_fcm.swc"
+		},
+		{
+			"name":"firebase_addons_firestore",
+			"id":"com.myflashlab.air.extensions.dependency.firebase.addons.firestore",
+			"v":"3.0.0",
+			"desc":"Includes Android dependencies required by the Firebase ANEs",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/firebase-addons-firestore/icon.png",
+			"path_ane":"DEPENDENCY/firebase-addons-firestore/firebase_addons_firestore.ane",
+			"path_swc":"DEPENDENCY/firebase-addons-firestore/firebase_addons_firestore.swc"
+		},
+		{
+			"name":"firebase_addons_squareup",
+			"id":"com.myflashlab.air.extensions.dependency.firebase.addons.squareup",
+			"v":"3.0.0",
+			"desc":"Includes Android dependencies required by the Firebase ANEs",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/firebase-addons-squareup/icon.png",
+			"path_ane":"DEPENDENCY/firebase-addons-squareup/firebase_addons_squareup.ane",
+			"path_swc":"DEPENDENCY/firebase-addons-squareup/firebase_addons_squareup.swc"
+		},
+		{
 			"name":"firebase_analytics",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.analytics",
-			"v":"16.4.1",
+			"v":"17.2.1",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -749,7 +928,7 @@
 		{
 			"name":"firebase_appindexing",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.appindexing",
-			"v":"17.1.1",
+			"v":"19.0.0",
 			"desc":"Includes Android dependencies required by the Firebase Core ANE",
 			"changelog":"",
 			"isDependency":true,
@@ -760,7 +939,7 @@
 		{
 			"name":"firebase_auth",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.auth",
-			"v":"16.2.11",
+			"v":"19.2.0",
 			"desc":"Includes Android dependencies required by the Firebase Auth ANE",
 			"changelog":"",
 			"isDependency":true,
@@ -771,7 +950,7 @@
 		{
 			"name":"firebase_common",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.common",
-			"v":"16.1.1",
+			"v":"19.3.0",
 			"desc":"Includes Android dependencies required by the Firebase Core ANE",
 			"changelog":"",
 			"isDependency":true,
@@ -782,7 +961,7 @@
 		{
 			"name":"firebase_config",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.config",
-			"v":"16.5.1",
+			"v":"19.1.0",
 			"desc":"Includes Android dependencies required by the Firebase Remote Config ANE",
 			"changelog":"",
 			"isDependency":true,
@@ -804,7 +983,7 @@
 		{
 			"name":"firebase_database",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.database",
-			"v":"16.1.1",
+			"v":"19.2.0",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -815,7 +994,7 @@
 		{
 			"name":"firebase_databaseCollection",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.database.collection",
-			"v":"16.0.11",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -835,9 +1014,20 @@
 			"path_swc":"DEPENDENCY/firebase-database-connection/firebase_databaseConnection.swc"
 		},
 		{
+			"name":"firebase_datatransport",
+			"id":"com.myflashlab.air.extensions.dependency.firebase.datatransport",
+			"v":"17.0.3",
+			"desc":"Includes Android dependencies required by the Firebase ANEs",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/firebase-datatransport/icon.png",
+			"path_ane":"DEPENDENCY/firebase-datatransport/firebase_datatransport.ane",
+			"path_swc":"DEPENDENCY/firebase-datatransport/firebase_datatransport.swc"
+		},
+		{
 			"name":"firebase_dynamicLinks",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.dynamicLinks",
-			"v":"16.1.81",
+			"v":"19.0.0",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -846,9 +1036,20 @@
 			"path_swc":"DEPENDENCY/firebase-dynamic-links/firebase_dynamicLinks.swc"
 		},
 		{
+			"name":"firebase_encodersJson",
+			"id":"com.myflashlab.air.extensions.dependency.firebase.encoders.json",
+			"v":"16.0.0",
+			"desc":"Includes Android dependencies required by the Firebase ANEs",
+			"changelog":"",
+			"isDependency":true,
+			"thumb":"DEPENDENCY/firebase-encoders-json/icon.png",
+			"path_ane":"DEPENDENCY/firebase-encoders-json/firebase_encoders_json.ane",
+			"path_swc":"DEPENDENCY/firebase-encoders-json/firebase_encoders_json.swc"
+		},
+		{
 			"name":"firebase_firestore",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.firestore",
-			"v":"18.2.1",
+			"v":"21.3.1",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -859,7 +1060,7 @@
 		{
 			"name":"firebase_functions",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.functions",
-			"v":"16.3.1",
+			"v":"19.0.1",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -870,7 +1071,7 @@
 		{
 			"name":"firebase_iid",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.iid",
-			"v":"17.1.21",
+			"v":"20.0.2",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -881,7 +1082,7 @@
 		{
 			"name":"firebase_inappmessaging",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.inappmessaging",
-			"v":"17.1.11",
+			"v":"19.0.2",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -892,7 +1093,7 @@
 		{
 			"name":"firebase_measurementConnector",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.measurement.connector",
-			"v":"17.0.11",
+			"v":"18.0.0",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -914,7 +1115,7 @@
 		{
 			"name":"firebase_messaging",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.messaging",
-			"v":"17.6.1",
+			"v":"20.1.0",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -925,7 +1126,7 @@
 		{
 			"name":"firebase_ml",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.ml",
-			"v":"19.0.31",
+			"v":"24.0.1",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -936,7 +1137,7 @@
 		{
 			"name":"firebase_perf",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.perf",
-			"v":"16.2.51",
+			"v":"19.0.4",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -947,7 +1148,7 @@
 		{
 			"name":"firebase_storage",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.storage",
-			"v":"16.1.1",
+			"v":"19.1.0",
 			"desc":"Includes Android dependencies required by the Firebase ANEs",
 			"changelog":"",
 			"isDependency":true,
@@ -1046,7 +1247,7 @@
 		{
 			"name":"googlePlayServices_ads",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.ads",
-			"v":"17.2.1",
+			"v":"18.3.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1057,7 +1258,7 @@
 		{
 			"name":"googlePlayServices_adsLite",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.ads.lite",
-			"v":"17.2.1",
+			"v":"18.3.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1068,7 +1269,7 @@
 		{
 			"name":"googlePlayServices_analytics",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.analytics",
-			"v":"16.0.81",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1101,7 +1302,7 @@
 		{
 			"name":"googlePlayServices_auth",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.auth",
-			"v":"16.0.11",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1123,7 +1324,7 @@
 		{
 			"name":"googlePlayServices_base",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.base",
-			"v":"16.1.1",
+			"v":"17.1.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1134,7 +1335,7 @@
 		{
 			"name":"googlePlayServices_basement",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.basement",
-			"v":"16.2.1",
+			"v":"17.1.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1145,7 +1346,7 @@
 		{
 			"name":"googlePlayServices_clearcut",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.clearcut",
-			"v":"16.0.1",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1156,7 +1357,7 @@
 		{
 			"name":"googlePlayServices_drive",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.drive",
-			"v":"16.1.1",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1167,7 +1368,7 @@
 		{
 			"name":"googlePlayServices_flags",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.flags",
-			"v":"16.0.11",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1178,7 +1379,7 @@
 		{
 			"name":"googlePlayServices_games",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.games",
-			"v":"17.0.1",
+			"v":"19.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1189,7 +1390,7 @@
 		{
 			"name":"googlePlayServices_gass",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.gass",
-			"v":"17.0.1",
+			"v":"18.3.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1244,7 +1445,7 @@
 		{
 			"name":"googlePlayServices_location",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.location",
-			"v":"16.0.1",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1255,7 +1456,7 @@
 		{
 			"name":"googlePlayServices_maps",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.maps",
-			"v":"16.0.1",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1266,7 +1467,7 @@
 		{
 			"name":"googlePlayServices_measurementBase",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.measurementBase",
-			"v":"16.4.1",
+			"v":"17.2.1",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1288,7 +1489,7 @@
 		{
 			"name":"googlePlayServices_panorama",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.panorama",
-			"v":"16.0.1",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-panorama/icon.png",
@@ -1298,7 +1499,7 @@
 		{
 			"name":"googlePlayServices_phenotype",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.phenotype",
-			"v":"16.0.1",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"thumb":"DEPENDENCY/play-services-phenotype/icon.png",
@@ -1308,7 +1509,7 @@
 		{
 			"name":"googlePlayServices_places",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.places",
-			"v":"16.0.1",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1341,7 +1542,7 @@
 		{
 			"name":"googlePlayServices_stats",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.stats",
-			"v":"16.0.11",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1352,7 +1553,7 @@
 		{
 			"name":"googlePlayServices_tagmanager",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.tagmanager",
-			"v":"16.0.81",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1363,7 +1564,7 @@
 		{
 			"name":"googlePlayServices_tasks",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.tasks",
-			"v":"16.0.11",
+			"v":"17.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1374,7 +1575,7 @@
 		{
 			"name":"googlePlayServices_vision",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.vision",
-			"v":"17.0.21",
+			"v":"19.0.0",
 			"desc":"Includes Android dependencies for Google Play Services.",
 			"changelog":"",
 			"isDependency":true,
@@ -1385,7 +1586,7 @@
 		{
 			"name":"tensorflow",
 			"id":"com.myflashlab.air.extensions.dependency.tensorflow",
-			"v":"1.12.1",
+			"v":"1.13.1",
 			"desc":"Includes Android dependencies for Tensorflow library",
 			"changelog":"",
 			"isDependency":true,
