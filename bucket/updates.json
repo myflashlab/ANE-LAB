@@ -1,6 +1,6 @@
 {
 	"lab":{
-		"v":"3.16.0",
+		"v":"3.17.0",
 		"changelog":"",
 		"path_dmg":"aneLab.dmg",
 		"path_exe":"aneLab.exe"
@@ -161,17 +161,6 @@
 			"path_swc":"firebase/core/firebaseCore.swc"
 		},
 		{
-			"name":"FirebaseCrash",
-			"id":"com.myflashlab.air.extensions.firebase.crash",
-			"v":"6.5.1",
-			"desc":"Firebase Crash.",
-			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
-			"isDependency":false,
-			"thumb":"firebase/crash/icon.png",
-			"path_ane":"firebase/crash/firebaseCrash.ane",
-			"path_swc":"firebase/crash/firebaseCrash.swc"
-		},
-		{
 			"name":"FirebaseCrashlytics",
 			"id":"com.myflashlab.air.extensions.firebase.crashlytics",
 			"v":"9.0.1",
@@ -228,28 +217,6 @@
 			"thumb":"firebase/functions/icon.png",
 			"path_ane":"firebase/functions/firebaseFunctions.ane",
 			"path_swc":"firebase/functions/firebaseFunctions.swc"
-		},
-		{
-			"name":"FirebaseInvites",
-			"id":"com.myflashlab.air.extensions.firebase.invites",
-			"v":"7.0.4",
-			"desc":"Firebase Invites.",
-			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
-			"isDependency":false,
-			"thumb":"firebase/Invites/icon.png",
-			"path_ane":"firebase/Invites/firebaseInvites.ane",
-			"path_swc":"firebase/Invites/firebaseInvites.swc"
-		},
-		{
-			"name":"FirebaseMlkit",
-			"id":"com.myflashlab.air.extensions.firebase.mlkit",
-			"v":"8.0.1",
-			"desc":"Firebase Mlkit.",
-			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
-			"isDependency":false,
-			"thumb":"firebase/mlKit/icon.png",
-			"path_ane":"firebase/mlKit/firebaseMlkit.ane",
-			"path_swc":"firebase/mlKit/firebaseMlkit.swc"
 		},
 		{
 			"name":"FirebasePerformance",
@@ -329,17 +296,6 @@
 			"path_swc":"GoogleSignIn/googleSignIn.swc"
 		},
 		{
-			"name":"googleVR",
-			"id":"com.myflashlab.air.extensions.googleVR",
-			"v":"3.1.11",
-			"desc":"Google Virtual Reality SDK for to Adobe AIR developers",
-			"changelog":"https://github.com/myflashlab/GoogleVR-ANE/raw/master/ChangeLog.md",
-			"isDependency":false,
-			"thumb":"googleVR/icon.png",
-			"path_ane":"googleVR/googleVR.ane",
-			"path_swc":"googleVR/googleVR.swc"
-		},
-		{
 			"name":"GPS",
 			"id":"com.myflashlab.air.extensions.gps",
 			"v":"4.0.1",
@@ -382,17 +338,6 @@
 			"thumb":"localNotification/icon.png",
 			"path_ane":"localNotification/localNotification.ane",
 			"path_swc":"localNotification/localNotification.swc"
-		},
-		{
-			"name":"OneSignal",
-			"id":"com.myflashlab.air.extensions.onesignal",
-			"v":"1.0.1",
-			"desc":"AIR Native Extension to let you schedule Local Notifications on iOS and Android",
-			"changelog":"https://github.com/myflashlab/OneSignal-ANE/raw/master/ChangeLog.md",
-			"isDependency":false,
-			"thumb":"OneSignal/icon.png",
-			"path_ane":"OneSignal/onesignal.ane",
-			"path_swc":"OneSignal/onesignal.swc"
 		},
 		{
 			"name":"packageManager",
@@ -563,17 +508,6 @@
 			"path_swc":"volume/volume.swc"
 		},
 		{
-			"name":"RichWebview",
-			"id":"com.myflashlab.air.extensions.webView",
-			"v":"7.1.7",
-			"desc":"A perfect replacement to the classic StageWebView and it allows you to easily call Javascript functions from AIR and send String messages from JS to AIR.",
-			"changelog":"https://github.com/myflashlab/webView-ANE/raw/master/ChangeLog.md",
-			"isDependency":false,
-			"thumb":"webView/icon.png",
-			"path_ane":"webView/richWebView.ane",
-			"path_swc":"webView/richWebView.swc"
-		},
-		{
 			"name":"RichWebview II",
 			"id":"com.myflashlab.air.extensions.richWebView",
 			"v":"9.0.2",
@@ -594,127 +528,6 @@
 			"thumb":"zipManager/icon.png",
 			"path_ane":"zipManager/zipManagerExtension.ane",
 			"path_swc":"zipManager/zipManagerExtension.swc"
-		},
-		{
-			"name":"AndroidSupport",
-			"id":"com.myflashlab.air.extensions.dependency.androidSupport",
-			"v":"27.0.2",
-			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/AndroidSupport/icon.png",
-			"path_ane":"DEPENDENCY/AndroidSupport/androidSupport.ane",
-			"path_swc":"DEPENDENCY/AndroidSupport/androidSupport.swc"
-		},
-		{
-			"name":"AndroidSupport-appcompat-v7",
-			"id":"com.myflashlab.air.extensions.dependency.androidSupport.appcompatV7",
-			"v":"27.1.11",
-			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/AndroidSupport-appcompat-v7/icon.png",
-			"path_ane":"DEPENDENCY/AndroidSupport-appcompat-v7/androidSupport-appcompatV7.ane",
-			"path_swc":"DEPENDENCY/AndroidSupport-appcompat-v7/androidSupport-appcompatV7.swc"
-		},
-		{
-			"name":"AndroidSupport-arch",
-			"id":"com.myflashlab.air.extensions.dependency.androidSupport.arch",
-			"v":"1.1.11",
-			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/AndroidSupport-arch/icon.png",
-			"path_ane":"DEPENDENCY/AndroidSupport-arch/androidSupport-arch.ane",
-			"path_swc":"DEPENDENCY/AndroidSupport-arch/androidSupport-arch.swc"
-		},
-		{
-			"name":"AndroidSupport-cardview-v7",
-			"id":"com.myflashlab.air.extensions.dependency.androidSupport.cardviewV7",
-			"v":"27.1.11",
-			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/AndroidSupport-cardview-v7/icon.png",
-			"path_ane":"DEPENDENCY/AndroidSupport-cardview-v7/androidSupport-cardviewV7.ane",
-			"path_swc":"DEPENDENCY/AndroidSupport-cardview-v7/androidSupport-cardviewV7.swc"
-		},
-		{
-			"name":"AndroidSupport-core",
-			"id":"com.myflashlab.air.extensions.dependency.androidSupport.core",
-			"v":"27.1.11",
-			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/AndroidSupport-core/icon.png",
-			"path_ane":"DEPENDENCY/AndroidSupport-core/androidSupport-core.ane",
-			"path_swc":"DEPENDENCY/AndroidSupport-core/androidSupport-core.swc"
-		},
-		{
-			"name":"AndroidSupport-customtabs",
-			"id":"com.myflashlab.air.extensions.dependency.androidSupport.customtabs",
-			"v":"27.1.11",
-			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/AndroidSupport-customtabs/icon.png",
-			"path_ane":"DEPENDENCY/AndroidSupport-customtabs/androidSupport-customtabs.ane",
-			"path_swc":"DEPENDENCY/AndroidSupport-customtabs/androidSupport-customtabs.swc"
-		},
-		{
-			"name":"AndroidSupport-design",
-			"id":"com.myflashlab.air.extensions.dependency.androidSupport.design",
-			"v":"27.1.11",
-			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/AndroidSupport-design/icon.png",
-			"path_ane":"DEPENDENCY/AndroidSupport-design/androidSupport-design.ane",
-			"path_swc":"DEPENDENCY/AndroidSupport-design/androidSupport-design.swc"
-		},
-		{
-			"name":"AndroidSupport-exifinterface",
-			"id":"com.myflashlab.air.extensions.dependency.androidSupport.exifinterface",
-			"v":"27.1.11",
-			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/AndroidSupport-exifinterface/icon.png",
-			"path_ane":"DEPENDENCY/AndroidSupport-exifinterface/androidSupport-exifinterface.ane",
-			"path_swc":"DEPENDENCY/AndroidSupport-exifinterface/androidSupport-exifinterface.swc"
-		},
-		{
-			"name":"AndroidSupport-mediarouter-v7",
-			"id":"com.myflashlab.air.extensions.dependency.androidSupport.mediarouterV7",
-			"v":"27.1.11",
-			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/AndroidSupport-mediarouter-v7/icon.png",
-			"path_ane":"DEPENDENCY/AndroidSupport-mediarouter-v7/androidSupport-mediarouterV7.ane",
-			"path_swc":"DEPENDENCY/AndroidSupport-mediarouter-v7/androidSupport-mediarouterV7.swc"
-		},
-		{
-			"name":"AndroidSupport-v4",
-			"id":"com.myflashlab.air.extensions.dependency.androidSupport.v4",
-			"v":"27.1.11",
-			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/AndroidSupport-v4/icon.png",
-			"path_ane":"DEPENDENCY/AndroidSupport-v4/androidSupport-v4.ane",
-			"path_swc":"DEPENDENCY/AndroidSupport-v4/androidSupport-v4.swc"
-		},
-		{
-			"name":"AndroidSupport-v13",
-			"id":"com.myflashlab.air.extensions.dependency.androidSupport.v13",
-			"v":"27.1.11",
-			"desc":"Android support ANE includes different Android libraries to make sure they work similar in different Android API versions",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/AndroidSupport-v13/icon.png",
-			"path_ane":"DEPENDENCY/AndroidSupport-v13/androidSupport-v13.ane",
-			"path_swc":"DEPENDENCY/AndroidSupport-v13/androidSupport-v13.swc"
 		},
 		{
 			"name":"androidx_arch",
@@ -838,17 +651,6 @@
 			"path_swc":"DEPENDENCY/androidx-vector/androidx_vector.swc"
 		},
 		{
-			"name":"Bolts",
-			"id":"com.myflashlab.air.extensions.dependency.bolts",
-			"v":"1.4.1",
-			"desc":"Bolts is a collection of low-level libraries designed to make developing mobile apps easier.",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/bolts/icon.png",
-			"path_ane":"DEPENDENCY/bolts/bolts.ane",
-			"path_swc":"DEPENDENCY/bolts/bolts.swc"
-		},
-		{
 			"name":"firebase_abt",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.abt",
 			"v":"19.0.0",
@@ -858,17 +660,6 @@
 			"thumb":"DEPENDENCY/firebase-abt/icon.png",
 			"path_ane":"DEPENDENCY/firebase-abt/firebase_abt.ane",
 			"path_swc":"DEPENDENCY/firebase-abt/firebase_abt.swc"
-		},
-		{
-			"name":"firebase_addons",
-			"id":"com.myflashlab.air.extensions.dependency.firebase.addons",
-			"v":"2.0.1",
-			"desc":"Includes Android dependencies required by the Firebase ANEs",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/firebase-addons/icon.png",
-			"path_ane":"DEPENDENCY/firebase-addons/firebase_addons.ane",
-			"path_swc":"DEPENDENCY/firebase-addons/firebase_addons.swc"
 		},
 		{
 			"name":"firebase_addons_fcm",
@@ -1003,17 +794,6 @@
 			"path_swc":"DEPENDENCY/firebase-database-collection/firebase_databaseCollection.swc"
 		},
 		{
-			"name":"firebase_databaseConnection",
-			"id":"com.myflashlab.air.extensions.dependency.firebase.database.connection",
-			"v":"12.0.1",
-			"desc":"Includes Android dependencies required by the Firebase ANEs",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/firebase-database-connection/icon.png",
-			"path_ane":"DEPENDENCY/firebase-database-connection/firebase_databaseConnection.ane",
-			"path_swc":"DEPENDENCY/firebase-database-connection/firebase_databaseConnection.swc"
-		},
-		{
 			"name":"firebase_datatransport",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.datatransport",
 			"v":"17.0.3",
@@ -1102,17 +882,6 @@
 			"path_swc":"DEPENDENCY/firebase-measurement-connector/firebase_measurementConnector.swc"
 		},
 		{
-			"name":"firebase_measurementConnectorImpl",
-			"id":"com.myflashlab.air.extensions.dependency.firebase.measurement.connector.impl",
-			"v":"16.0.1",
-			"desc":"Includes Android dependencies required by the Firebase ANEs",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/firebase-measurement-connector-impl/icon.png",
-			"path_ane":"DEPENDENCY/firebase-measurement-connector-impl/firebase_measurementConnectorImpl.ane",
-			"path_swc":"DEPENDENCY/firebase-measurement-connector-impl/firebase_measurementConnectorImpl.swc"
-		},
-		{
 			"name":"firebase_messaging",
 			"id":"com.myflashlab.air.extensions.dependency.firebase.messaging",
 			"v":"20.1.0",
@@ -1157,17 +926,6 @@
 			"path_swc":"DEPENDENCY/firebase-storage/firebase_storage.swc"
 		},
 		{
-			"name":"firebase_storageCommon",
-			"id":"com.myflashlab.air.extensions.dependency.firebase.storage.common",
-			"v":"12.0.1",
-			"desc":"Includes Android dependencies required by the Firebase Storage ANE",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/firebase-storage-common/icon.png",
-			"path_ane":"DEPENDENCY/firebase-storage-common/firebase_storageCommon.ane",
-			"path_swc":"DEPENDENCY/firebase-storage-common/firebase_storageCommon.swc"
-		},
-		{
 			"name":"gson",
 			"id":"com.myflashlab.air.extensions.dependency.gson",
 			"v":"2.8.21",
@@ -1177,61 +935,6 @@
 			"thumb":"DEPENDENCY/gson/icon.png",
 			"path_ane":"DEPENDENCY/gson/gson.ane",
 			"path_swc":"DEPENDENCY/gson/gson.swc"
-		},
-		{
-			"name":"gvr_base",
-			"id":"com.myflashlab.air.extensions.dependency.gvr.base",
-			"v":"1.70.1",
-			"desc":"Includes Android dependencies required by the Google VR ANE",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/gvr-base/icon.png",
-			"path_ane":"DEPENDENCY/gvr-base/gvr_base.ane",
-			"path_swc":"DEPENDENCY/gvr-base/gvr_base.swc"
-		},
-		{
-			"name":"gvr_common",
-			"id":"com.myflashlab.air.extensions.dependency.gvr.common",
-			"v":"1.70.1",
-			"desc":"Includes Android dependencies required by the Google VR ANE",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/gvr-common/icon.png",
-			"path_ane":"DEPENDENCY/gvr-common/gvr_common.ane",
-			"path_swc":"DEPENDENCY/gvr-common/gvr_common.swc"
-		},
-		{
-			"name":"gvr_commonwidget",
-			"id":"com.myflashlab.air.extensions.dependency.gvr.commonwidget",
-			"v":"1.70.1",
-			"desc":"Includes Android dependencies required by the Google VR ANE",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/gvr-commonwidget/icon.png",
-			"path_ane":"DEPENDENCY/gvr-commonwidget/gvr_commonwidget.ane",
-			"path_swc":"DEPENDENCY/gvr-commonwidget/gvr_commonwidget.swc"
-		},
-		{
-			"name":"gvr_panowidget",
-			"id":"com.myflashlab.air.extensions.dependency.gvr.panowidget",
-			"v":"1.70.1",
-			"desc":"Includes Android dependencies required by the Google VR ANE",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/gvr-panowidget/icon.png",
-			"path_ane":"DEPENDENCY/gvr-panowidget/gvr_panowidget.ane",
-			"path_swc":"DEPENDENCY/gvr-panowidget/gvr_panowidget.swc"
-		},
-		{
-			"name":"gvr_videowidget",
-			"id":"com.myflashlab.air.extensions.dependency.gvr.videowidget",
-			"v":"1.70.1",
-			"desc":"Includes Android dependencies required by the Google VR ANE",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/gvr-videowidget/icon.png",
-			"path_ane":"DEPENDENCY/gvr-videowidget/gvr_videowidget.ane",
-			"path_swc":"DEPENDENCY/gvr-videowidget/gvr_videowidget.swc"
 		},
 		{
 			"name":"overrideAir",
@@ -1278,28 +981,6 @@
 			"path_swc":"DEPENDENCY/play-services-analytics/googlePlayServices_analytics.swc"
 		},
 		{
-			"name":"googlePlayServices_analyticsImpl",
-			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.analytics.impl",
-			"v":"12.0.1",
-			"desc":"Includes Android dependencies for Google Play Services.",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/play-services-analytics-impl/icon.png",
-			"path_ane":"DEPENDENCY/play-services-analytics-impl/googlePlayServices_analyticsImpl.ane",
-			"path_swc":"DEPENDENCY/play-services-analytics-impl/googlePlayServices_analyticsImpl.swc"
-		},
-		{
-			"name":"googlePlayServices_appinvite",
-			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.appinvite",
-			"v":"16.1.11",
-			"desc":"Includes Android dependencies for Google Play Services.",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/play-services-appinvite/icon.png",
-			"path_ane":"DEPENDENCY/play-services-appinvite/googlePlayServices_appinvite.ane",
-			"path_swc":"DEPENDENCY/play-services-appinvite/googlePlayServices_appinvite.swc"
-		},
-		{
 			"name":"googlePlayServices_auth",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.auth",
 			"v":"17.0.0",
@@ -1309,17 +990,6 @@
 			"thumb":"DEPENDENCY/play-services-auth/icon.png",
 			"path_ane":"DEPENDENCY/play-services-auth/googlePlayServices_auth.ane",
 			"path_swc":"DEPENDENCY/play-services-auth/googlePlayServices_auth.swc"
-		},
-		{
-			"name":"googlePlayServices_authBase",
-			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.auth.base",
-			"v":"12.0.1",
-			"desc":"Includes Android dependencies for Google Play Services.",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/play-services-auth-base/icon.png",
-			"path_ane":"DEPENDENCY/play-services-auth-base/googlePlayServices_authBase.ane",
-			"path_swc":"DEPENDENCY/play-services-auth-base/googlePlayServices_authBase.swc"
 		},
 		{
 			"name":"googlePlayServices_base",
@@ -1399,50 +1069,6 @@
 			"path_swc":"DEPENDENCY/play-services-gass/googlePlayServices_gass.swc"
 		},
 		{
-			"name":"googlePlayServices_gcm",
-			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.gcm",
-			"v":"12.0.1",
-			"desc":"Includes Android dependencies for Google Play Services.",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/play-services-gcm/icon.png",
-			"path_ane":"DEPENDENCY/play-services-gcm/googlePlayServices_gcm.ane",
-			"path_swc":"DEPENDENCY/play-services-gcm/googlePlayServices_gcm.swc"
-		},
-		{
-			"name":"googlePlayServices_identity",
-			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.identity",
-			"v":"12.0.1",
-			"desc":"Includes Android dependencies for Google Play Services.",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/play-services-identity/icon.png",
-			"path_ane":"DEPENDENCY/play-services-identity/googlePlayServices_identity.ane",
-			"path_swc":"DEPENDENCY/play-services-identity/googlePlayServices_identity.swc"
-		},
-		{
-			"name":"googlePlayServices_iid",
-			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.iid",
-			"v":"12.0.1",
-			"desc":"Includes Android dependencies for Google Play Services.",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/play-services-iid/icon.png",
-			"path_ane":"DEPENDENCY/play-services-iid/googlePlayServices_iid.ane",
-			"path_swc":"DEPENDENCY/play-services-iid/googlePlayServices_iid.swc"
-		},
-		{
-			"name":"googlePlayServices_instantapps",
-			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.instantapps",
-			"v":"12.0.1",
-			"desc":"Includes Android dependencies for Google Play Services.",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/play-services-instantapps/icon.png",
-			"path_ane":"DEPENDENCY/play-services-instantapps/googlePlayServices_instantapps.ane",
-			"path_swc":"DEPENDENCY/play-services-instantapps/googlePlayServices_instantapps.swc"
-		},
-		{
 			"name":"googlePlayServices_location",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.location",
 			"v":"17.0.0",
@@ -1476,17 +1102,6 @@
 			"path_swc":"DEPENDENCY/play-services-measurement-base/googlePlayServices_measurementBase.swc"
 		},
 		{
-			"name":"googlePlayServices_nearby",
-			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.nearby",
-			"v":"15.0.1",
-			"desc":"Includes Android dependencies for Google Play Services.",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/play-services-nearby/icon.png",
-			"path_ane":"DEPENDENCY/play-services-nearby/googlePlayServices_nearby.ane",
-			"path_swc":"DEPENDENCY/play-services-nearby/googlePlayServices_nearby.swc"
-		},
-		{
 			"name":"googlePlayServices_panorama",
 			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.panorama",
 			"v":"17.0.0",
@@ -1516,28 +1131,6 @@
 			"thumb":"DEPENDENCY/play-services-places/icon.png",
 			"path_ane":"DEPENDENCY/play-services-places/googlePlayServices_places.ane",
 			"path_swc":"DEPENDENCY/play-services-places/googlePlayServices_places.swc"
-		},
-		{
-			"name":"googlePlayServices_plus",
-			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.plus",
-			"v":"15.0.1",
-			"desc":"Includes Android dependencies for Google Play Services.",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/play-services-plus/icon.png",
-			"path_ane":"DEPENDENCY/play-services-plus/googlePlayServices_plus.ane",
-			"path_swc":"DEPENDENCY/play-services-plus/googlePlayServices_plus.swc"
-		},
-		{
-			"name":"googlePlayServices_safetynet",
-			"id":"com.myflashlab.air.extensions.dependency.googlePlayServices.safetynet",
-			"v":"15.0.1",
-			"desc":"Includes Android dependencies for Google Play Services.",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/play-services-safetynet/icon.png",
-			"path_ane":"DEPENDENCY/play-services-safetynet/googlePlayServices_safetynet.ane",
-			"path_swc":"DEPENDENCY/play-services-safetynet/googlePlayServices_safetynet.swc"
 		},
 		{
 			"name":"googlePlayServices_stats",
@@ -1582,17 +1175,6 @@
 			"thumb":"DEPENDENCY/play-services-vision/icon.png",
 			"path_ane":"DEPENDENCY/play-services-vision/googlePlayServices_vision.ane",
 			"path_swc":"DEPENDENCY/play-services-vision/googlePlayServices_vision.swc"
-		},
-		{
-			"name":"tensorflow",
-			"id":"com.myflashlab.air.extensions.dependency.tensorflow",
-			"v":"1.13.1",
-			"desc":"Includes Android dependencies for Tensorflow library",
-			"changelog":"",
-			"isDependency":true,
-			"thumb":"DEPENDENCY/tensorflow/icon.png",
-			"path_ane":"DEPENDENCY/tensorflow/tensorflow.ane",
-			"path_swc":"DEPENDENCY/tensorflow/tensorflow.swc"
 		}
 	]
 }
