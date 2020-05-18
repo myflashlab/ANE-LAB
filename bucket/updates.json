@@ -163,7 +163,7 @@
 		{
 			"name":"FirebaseCrashlytics",
 			"id":"com.myflashlab.air.extensions.firebase.crashlytics",
-			"v":"9.5.0",
+			"v":"9.9.0",
 			"desc":"Firebase Crashlytics.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
