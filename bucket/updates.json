@@ -287,7 +287,7 @@
 		{
 			"name":"GoogleSignIn",
 			"id":"com.myflashlab.air.extensions.google.signin",
-			"v":"3.0.0",
+			"v":"4.0.2",
 			"desc":"GoogleSignIn AIR Native Extension lets you signin your users to your app using Google. Works on Android and iOS",
 			"changelog":"https://github.com/myflashlab/GoogleSignIn-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
