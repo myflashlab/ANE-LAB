@@ -364,7 +364,7 @@
 		{
 			"name":"permissionCheck",
 			"id":"com.myflashlab.air.extensions.permissionCheck",
-			"v":"4.0.1",
+			"v":"5.0.0",
 			"desc":"Check and request for permissions in your Adobe Air app",
 			"changelog":"https://github.com/myflashlab/PermissionCheck-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
