@@ -441,7 +441,7 @@
 		{
 			"name":"Statusbar",
 			"id":"com.myflashlab.air.extensions.statusbar",
-			"v":"1.1.1",
+			"v":"2.0.0",
 			"desc":"Control the Statusbar in your AIR apps in runtime with this AIR Native Extension",
 			"changelog":"https://github.com/myflashlab/Statusbar-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
