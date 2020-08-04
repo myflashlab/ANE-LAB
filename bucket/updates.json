@@ -9,7 +9,7 @@
 		{
 			"name":"ADBMobile",
 			"id":"com.myflashlab.air.extensions.ADBMobile",
-			"v":"4.18.0",
+			"v":"5.0.2",
 			"desc":"Adobe Mobile SDK for Experience Cloud Solutions for AIR native Extension",
 			"changelog":"https://github.com/myflashlab/ADBMobile/raw/master/ChangeLog.md",
 			"isDependency":false,
