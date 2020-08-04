@@ -486,9 +486,9 @@
 			"path_swc":"videoPlayer/videoPlayerExtension.swc"
 		},
 		{
-			"name":"videoPlayerSurface",
+			"name":"VideoPlayerSurface",
 			"id":"com.myflashlab.air.extensions.videoPlayerSurface",
-			"v":"3.4.41",
+			"v":"4.0.0",
 			"desc":"SurfacePlayer air native extension helps you play video files inside your air mobile projects and you can control the position of the player by setting x, y, width and height parameters.",
 			"changelog":"https://github.com/myflashlab/surfaceVideoPlayer-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
