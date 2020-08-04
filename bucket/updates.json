@@ -95,6 +95,17 @@
 			"path_swc":"cmd/cmd.swc"
 		},
 		{
+			"name":"DarkMode",
+			"id":"com.myflashlab.air.extensions.darkMode",
+			"v":"1.1.0",
+			"desc":"AIR Native Extension to access current state of the dark mode of the device on Android and iOS.",
+			"changelog":"https://github.com/myflashlab/DarkMode-ANE/raw/master/ChangeLog.md",
+			"isDependency":false,
+			"thumb":"darkMode/icon.png",
+			"path_ane":"darkMode/darkMode.ane",
+			"path_swc":"darkMode/darkMode.swc"
+		},
+		{
 			"name":"DeviceInfo",
 			"id":"com.myflashlab.air.extensions.deviceInfo",
 			"v":"0.0.12",
