@@ -62,9 +62,9 @@
 			"path_swc":"badge/badge.swc"
 		},
 		{
-			"name":"barcode",
+			"name":"Barcode",
 			"id":"com.myflashlab.air.extensions.barcode",
-			"v":"4.0.1",
+			"v":"5.0.0",
 			"desc":"Scan almost any barcode type with this super fast barcode scanner air native extension",
 			"changelog":"https://github.com/myflashlab/barcode-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
