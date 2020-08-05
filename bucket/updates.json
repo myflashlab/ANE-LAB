@@ -408,7 +408,7 @@
 		{
 			"name":"Sensors",
 			"id":"com.myflashlab.air.extensions.sensors",
-			"v":"0.0.11",
+			"v":"1.0.0",
 			"desc":"ANE for accessing the accelerometer and gyroscope sensors on Android and iOS",
 			"changelog":"https://github.com/myflashlab/Sensors-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
