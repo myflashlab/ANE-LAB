@@ -384,9 +384,9 @@
 			"path_swc":"permissionCheck/permissionCheck.swc"
 		},
 		{
-			"name":"quickActions",
+			"name":"QuickActions",
 			"id":"com.myflashlab.air.extensions.quickActions",
-			"v":"0.0.11",
+			"v":"1.0.0",
 			"desc":"QuickActions ANE known as '3D Touch Home screen quick actions' on iOS and 'App shortcuts' on Android.",
 			"changelog":"https://github.com/myflashlab/QuickActions-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
