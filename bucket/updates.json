@@ -419,7 +419,7 @@
 		{
 			"name":"Share",
 			"id":"com.myflashlab.air.extensions.share",
-			"v":"0.0.11",
+			"v":"1.0.0",
 			"desc":"ANE for sharing content from your AdobeAIR app via the platform's share dialog.",
 			"changelog":"https://github.com/myflashlab/Share-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
