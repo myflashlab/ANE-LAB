@@ -108,7 +108,7 @@
 		{
 			"name":"DeviceInfo",
 			"id":"com.myflashlab.air.extensions.deviceInfo",
-			"v":"0.0.12",
+			"v":"1.0.0",
 			"desc":"Get current device information from within the AIR application.",
 			"changelog":"https://github.com/myflashlab/DeviceInfo-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
