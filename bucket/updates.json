@@ -463,7 +463,7 @@
 		{
 			"name":"UDID",
 			"id":"com.myflashlab.air.extensions.udid",
-			"v":"2.0.2",
+			"v":"3.0.0",
 			"desc":"Use this AIR Native Extension to obtain a unique device ID in your Adobe AIR app. Supported on Android and iOS",
 			"changelog":"https://github.com/myflashlab/UDID-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
