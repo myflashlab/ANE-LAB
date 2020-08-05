@@ -342,7 +342,7 @@
 		{
 			"name":"LocalNotification",
 			"id":"com.myflashlab.air.extensions.localNotification",
-			"v":"3.0.0",
+			"v":"3.5.1",
 			"desc":"AIR Native Extension to let you schedule Local Notifications on iOS and Android",
 			"changelog":"https://github.com/myflashlab/LocalNotification-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
