@@ -353,7 +353,7 @@
 		{
 			"name":"packageManager",
 			"id":"com.myflashlab.air.extensions.packageManager",
-			"v":"3.0.0",
+			"v":"4.0.0",
 			"desc":"AIR Native Extension to give you access to Android's PackageManager API",
 			"changelog":"https://github.com/myflashlab/packageManager-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
