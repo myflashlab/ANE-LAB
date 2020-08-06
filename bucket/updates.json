@@ -18,9 +18,9 @@
 			"path_swc":"ADBMobile/ADBMobile.swc"
 		},
 		{
-			"name":"admob",
+			"name":"adMob",
 			"id":"com.myflashlab.air.extensions.admob",
-			"v":"6.0.1",
+			"v":"6.0.3",
 			"desc":"Admob & DoubleClick SDKs for AdobeAIR users",
 			"changelog":"https://github.com/myflashlab/Admob-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
