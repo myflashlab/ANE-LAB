@@ -20,7 +20,7 @@
 		{
 			"name":"adMob",
 			"id":"com.myflashlab.air.extensions.admob",
-			"v":"6.0.4",
+			"v":"6.2.0",
 			"desc":"Admob & DoubleClick SDKs for AdobeAIR users",
 			"changelog":"https://github.com/myflashlab/Admob-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -141,7 +141,7 @@
 		{
 			"name":"FirebaseAnalytics",
 			"id":"com.myflashlab.air.extensions.firebase.analytics",
-			"v":"10.0.2",
+			"v":"10.2.0",
 			"desc":"Firebase Analytics.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -152,7 +152,7 @@
 		{
 			"name":"FirebaseAuth",
 			"id":"com.myflashlab.air.extensions.firebase.auth",
-			"v":"10.0.2",
+			"v":"10.2.0",
 			"desc":"Firebase Auth.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -163,7 +163,7 @@
 		{
 			"name":"FirebaseCore",
 			"id":"com.myflashlab.air.extensions.firebase.core",
-			"v":"10.0.3",
+			"v":"10.2.0",
 			"desc":"Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -174,7 +174,7 @@
 		{
 			"name":"FirebaseCrashlytics",
 			"id":"com.myflashlab.air.extensions.firebase.crashlytics",
-			"v":"10.0.2",
+			"v":"10.2.0",
 			"desc":"Firebase Crashlytics.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -185,7 +185,7 @@
 		{
 			"name":"FirebaseDynamicLinks",
 			"id":"com.myflashlab.air.extensions.firebase.dynamicLinks",
-			"v":"10.0.2",
+			"v":"10.2.0",
 			"desc":"Firebase DynamicLinks.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -196,7 +196,7 @@
 		{
 			"name":"FirebaseMessaging",
 			"id":"com.myflashlab.air.extensions.firebase.fcm",
-			"v":"10.0.2",
+			"v":"10.2.0",
 			"desc":"Firebase Messaging.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -210,7 +210,7 @@
 		{
 			"name":"FirebaseFirestore",
 			"id":"com.myflashlab.air.extensions.firebase.firestore",
-			"v":"10.0.2",
+			"v":"10.2.0",
 			"desc":"Firebase Firestore.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -221,7 +221,7 @@
 		{
 			"name":"FirebaseFunctions",
 			"id":"com.myflashlab.air.extensions.firebase.functions",
-			"v":"10.0.2",
+			"v":"10.2.0",
 			"desc":"Firebase Functions.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -232,7 +232,7 @@
 		{
 			"name":"FirebasePerformance",
 			"id":"com.myflashlab.air.extensions.firebase.performance",
-			"v":"10.0.2",
+			"v":"10.2.0",
 			"desc":"Firebase Performance.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -243,7 +243,7 @@
 		{
 			"name":"FirebaseDatabase",
 			"id":"com.myflashlab.air.extensions.firebase.realtimeDB",
-			"v":"10.0.2",
+			"v":"10.2.0",
 			"desc":"Firebase Database.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -254,7 +254,7 @@
 		{
 			"name":"FirebaseRemoteConfig",
 			"id":"com.myflashlab.air.extensions.firebase.remoteConfig",
-			"v":"10.0.2",
+			"v":"10.2.0",
 			"desc":"Firebase RemoteConfig.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -265,7 +265,7 @@
 		{
 			"name":"FirebaseStorage",
 			"id":"com.myflashlab.air.extensions.firebase.storage",
-			"v":"10.0.2",
+			"v":"10.2.0",
 			"desc":"Firebase Storage.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -287,7 +287,7 @@
 		{
 			"name":"GameServices",
 			"id":"com.myflashlab.air.extensions.gameServices",
-			"v":"6.0.0",
+			"v":"6.1.1",
 			"desc":"Game Services Air native extension is supported on Android with a super easy interface so you can focus on your game logic and easily have access to all the cool features of this great library in your games.",
 			"changelog":"https://github.com/myflashlab/GameServices-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
@@ -298,7 +298,7 @@
 		{
 			"name":"GoogleSignIn",
 			"id":"com.myflashlab.air.extensions.google.signin",
-			"v":"5.0.0",
+			"v":"5.2.0",
 			"desc":"GoogleSignIn AIR Native Extension lets you signin your users to your app using Google. Works on Android and iOS",
 			"changelog":"https://github.com/myflashlab/GoogleSignIn-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
