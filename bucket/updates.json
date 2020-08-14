@@ -210,7 +210,7 @@
 		{
 			"name":"FirebaseFirestore",
 			"id":"com.myflashlab.air.extensions.firebase.firestore",
-			"v":"10.0.2",
+			"v":"10.2.0",
 			"desc":"Firebase Firestore.",
 			"changelog":"https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
 			"isDependency":false,
