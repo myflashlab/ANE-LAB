@@ -20,7 +20,7 @@
     {
       "name": "adMob",
       "id": "com.myflashlab.air.extensions.admob",
-      "v": "6.2.0",
+      "v": "6.2.2",
       "desc": "Admob & DoubleClick SDKs for AdobeAIR users",
       "changelog": "https://github.com/myflashlab/Admob-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
