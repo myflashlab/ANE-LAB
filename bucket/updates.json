@@ -232,7 +232,7 @@
     {
       "name": "FirebasePerformance",
       "id": "com.myflashlab.air.extensions.firebase.performance",
-      "v": "10.2.1",
+      "v": "10.2.3",
       "desc": "Firebase Performance.",
       "changelog": "https://github.com/myflashlab/Firebase-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
