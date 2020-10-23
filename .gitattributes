@@ -1,0 +1,8 @@
+*      text=auto
+*.json text
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.ane  binary    -crlf -diff -merge
+*.swc  binary    -crlf -diff -merge
