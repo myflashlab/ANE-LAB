@@ -75,7 +75,7 @@
     {
       "name": "Battery",
       "id": "com.myflashlab.air.extensions.battery",
-      "v": "1.0.0",
+      "v": "1.0.2",
       "desc": "AIR Native Extension to access various information about the battery of the device the app is running on.",
       "changelog": "https://github.com/myflashlab/Battery-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
