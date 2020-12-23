@@ -816,7 +816,7 @@
     {
       "name": "firebase_dynamicLinks",
       "id": "com.myflashlab.air.extensions.dependency.firebase.dynamicLinks",
-      "v": "19.1.0",
+      "v": "19.1.1",
       "desc": "Includes Android dependencies required by the Firebase ANEs",
       "changelog": "",
       "isDependency": true,
