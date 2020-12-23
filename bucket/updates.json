@@ -849,7 +849,7 @@
     {
       "name": "firebase_functions",
       "id": "com.myflashlab.air.extensions.dependency.firebase.functions",
-      "v": "19.0.2",
+      "v": "19.2.0",
       "desc": "Includes Android dependencies required by the Firebase ANEs",
       "changelog": "",
       "isDependency": true,
