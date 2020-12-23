@@ -750,7 +750,7 @@
     {
       "name": "firebase_common",
       "id": "com.myflashlab.air.extensions.dependency.firebase.common",
-      "v": "19.3.1",
+      "v": "19.5.0",
       "desc": "Includes Android dependencies required by the Firebase Core ANE",
       "changelog": "",
       "isDependency": true,
