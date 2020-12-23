@@ -805,7 +805,7 @@
     {
       "name": "firebase_datatransport",
       "id": "com.myflashlab.air.extensions.dependency.firebase.datatransport",
-      "v": "17.0.4",
+      "v": "17.0.10",
       "desc": "Includes Android dependencies required by the Firebase ANEs",
       "changelog": "",
       "isDependency": true,
