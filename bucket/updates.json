@@ -838,7 +838,7 @@
     {
       "name": "firebase_firestore",
       "id": "com.myflashlab.air.extensions.dependency.firebase.firestore",
-      "v": "21.5.0",
+      "v": "22.0.1",
       "desc": "Includes Android dependencies required by the Firebase ANEs",
       "changelog": "",
       "isDependency": true,
