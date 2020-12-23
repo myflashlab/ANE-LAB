@@ -981,7 +981,7 @@
     {
       "name": "googlePlayServices_adsLite",
       "id": "com.myflashlab.air.extensions.dependency.googlePlayServices.ads.lite",
-      "v": "19.2.0",
+      "v": "19.6.0",
       "desc": "Includes Android dependencies for Google Play Services.",
       "changelog": "",
       "isDependency": true,
