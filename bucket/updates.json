@@ -706,7 +706,7 @@
     {
       "name": "firebase_analytics",
       "id": "com.myflashlab.air.extensions.dependency.firebase.analytics",
-      "v": "17.4.4",
+      "v": "18.0.0",
       "desc": "Includes Android dependencies required by the Firebase ANEs",
       "changelog": "",
       "isDependency": true,
