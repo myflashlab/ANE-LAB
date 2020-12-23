@@ -1144,7 +1144,7 @@
     {
       "name": "googlePlayServices_places",
       "id": "com.myflashlab.air.extensions.dependency.googlePlayServices.places",
-      "v": "17.0.1",
+      "v": "16.0.0",
       "desc": "Includes Android dependencies for Google Play Services.",
       "changelog": "",
       "isDependency": true,
