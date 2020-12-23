@@ -684,7 +684,7 @@
     {
       "name": "firebase_addons_firestore",
       "id": "com.myflashlab.air.extensions.dependency.firebase.addons.firestore",
-      "v": "4.0.0",
+      "v": "4.0.1",
       "desc": "Includes Android dependencies required by the Firebase ANEs",
       "changelog": "",
       "isDependency": true,
