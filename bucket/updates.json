@@ -860,7 +860,7 @@
     {
       "name": "firebase_iid",
       "id": "com.myflashlab.air.extensions.dependency.firebase.iid",
-      "v": "20.2.3",
+      "v": "21.0.1",
       "desc": "Includes Android dependencies required by the Firebase ANEs",
       "changelog": "",
       "isDependency": true,
