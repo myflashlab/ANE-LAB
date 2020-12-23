@@ -926,7 +926,7 @@
     {
       "name": "firebase_perf",
       "id": "com.myflashlab.air.extensions.dependency.firebase.perf",
-      "v": "19.0.8",
+      "v": "19.0.11",
       "desc": "Includes Android dependencies required by the Firebase ANEs",
       "changelog": "",
       "isDependency": true,
