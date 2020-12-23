@@ -1188,7 +1188,7 @@
     {
       "name": "googlePlayServices_vision",
       "id": "com.myflashlab.air.extensions.dependency.googlePlayServices.vision",
-      "v": "20.1.0",
+      "v": "20.0.0",
       "desc": "Includes Android dependencies for Google Play Services.",
       "changelog": "",
       "isDependency": true,
