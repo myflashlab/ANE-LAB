@@ -662,7 +662,7 @@
     {
       "name": "firebase_abt",
       "id": "com.myflashlab.air.extensions.dependency.firebase.abt",
-      "v": "19.1.0",
+      "v": "20.0.0",
       "desc": "Includes Android dependencies required by the Firebase ANEs",
       "changelog": "",
       "isDependency": true,
