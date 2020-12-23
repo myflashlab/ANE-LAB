@@ -739,7 +739,7 @@
     {
       "name": "firebase_auth",
       "id": "com.myflashlab.air.extensions.dependency.firebase.auth",
-      "v": "19.3.2",
+      "v": "20.0.1",
       "desc": "Includes Android dependencies required by the Firebase Auth ANE",
       "changelog": "",
       "isDependency": true,
