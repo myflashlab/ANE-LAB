@@ -937,7 +937,7 @@
     {
       "name": "firebase_storage",
       "id": "com.myflashlab.air.extensions.dependency.firebase.storage",
-      "v": "19.1.1",
+      "v": "19.2.1",
       "desc": "Includes Android dependencies required by the Firebase ANEs",
       "changelog": "",
       "isDependency": true,
