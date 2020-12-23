@@ -827,7 +827,7 @@
     {
       "name": "firebase_encodersJson",
       "id": "com.myflashlab.air.extensions.dependency.firebase.encoders.json",
-      "v": "16.1.0",
+      "v": "17.1.0",
       "desc": "Includes Android dependencies required by the Firebase ANEs",
       "changelog": "",
       "isDependency": true,
