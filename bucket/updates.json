@@ -882,7 +882,7 @@
     {
       "name": "firebase_installations",
       "id": "com.myflashlab.air.extensions.dependency.firebase.installations",
-      "v": "16.3.2",
+      "v": "16.3.5",
       "desc": "Includes Android dependencies required by the Firebase ANEs",
       "changelog": "",
       "isDependency": true,
