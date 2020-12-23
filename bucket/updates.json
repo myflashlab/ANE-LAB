@@ -1113,7 +1113,7 @@
     {
       "name": "googlePlayServices_measurementBase",
       "id": "com.myflashlab.air.extensions.dependency.googlePlayServices.measurementBase",
-      "v": "17.4.4",
+      "v": "18.0.0",
       "desc": "Includes Android dependencies for Google Play Services.",
       "changelog": "",
       "isDependency": true,
