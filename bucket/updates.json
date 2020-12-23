@@ -783,7 +783,7 @@
     {
       "name": "firebase_database",
       "id": "com.myflashlab.air.extensions.dependency.firebase.database",
-      "v": "19.3.1",
+      "v": "19.6.0",
       "desc": "Includes Android dependencies required by the Firebase ANEs",
       "changelog": "",
       "isDependency": true,
