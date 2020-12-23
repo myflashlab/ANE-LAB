@@ -761,7 +761,7 @@
     {
       "name": "firebase_config",
       "id": "com.myflashlab.air.extensions.dependency.firebase.config",
-      "v": "19.2.0",
+      "v": "20.0.2",
       "desc": "Includes Android dependencies required by the Firebase Remote Config ANE",
       "changelog": "",
       "isDependency": true,
