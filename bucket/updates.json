@@ -1003,7 +1003,7 @@
     {
       "name": "googlePlayServices_auth",
       "id": "com.myflashlab.air.extensions.dependency.googlePlayServices.auth",
-      "v": "18.1.0",
+      "v": "19.0.0",
       "desc": "Includes Android dependencies for Google Play Services.",
       "changelog": "",
       "isDependency": true,
