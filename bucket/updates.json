@@ -1080,7 +1080,7 @@
     {
       "name": "googlePlayServices_gass",
       "id": "com.myflashlab.air.extensions.dependency.googlePlayServices.gass",
-      "v": "19.2.0",
+      "v": "19.6.0",
       "desc": "Includes Android dependencies for Google Play Services.",
       "changelog": "",
       "isDependency": true,
