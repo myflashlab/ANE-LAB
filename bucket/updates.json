@@ -915,7 +915,7 @@
     {
       "name": "firebase_ml",
       "id": "com.myflashlab.air.extensions.dependency.firebase.ml",
-      "v": "24.0.3",
+      "v": "24.1.0",
       "desc": "Includes Android dependencies required by the Firebase ANEs",
       "changelog": "",
       "isDependency": true,
