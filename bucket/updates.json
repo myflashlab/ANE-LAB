@@ -386,7 +386,7 @@
     {
       "name": "QuickActions",
       "id": "com.myflashlab.air.extensions.quickActions",
-      "v": "1.0.0",
+      "v": "1.0.1",
       "desc": "QuickActions ANE known as '3D Touch Home screen quick actions' on iOS and 'App shortcuts' on Android.",
       "changelog": "https://github.com/myflashlab/QuickActions-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
