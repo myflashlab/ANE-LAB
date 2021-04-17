@@ -20,7 +20,7 @@
     {
       "name": "adMob",
       "id": "com.myflashlab.air.extensions.admob",
-      "v": "6.2.3",
+      "v": "6.2.4",
       "desc": "Admob & DoubleClick SDKs for AdobeAIR users",
       "changelog": "https://github.com/myflashlab/Admob-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
@@ -31,7 +31,7 @@
     {
       "name": "AppleSignin",
       "id": "com.myflashlab.air.extensions.appleSignIn",
-      "v": "1.1.0",
+      "v": "1.1.1",
       "desc": "Sign in with Apple makes it easy for users to sign in to your AIR apps using their Apple ID.",
       "changelog": "https://github.com/myflashlab/AppleSigin-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
@@ -53,7 +53,7 @@
     {
       "name": "Badge",
       "id": "com.myflashlab.air.extensions.badge",
-      "v": "2.0.0",
+      "v": "2.0.1",
       "desc": "control the iOS badge value directly from Adobe AIR app",
       "changelog": "https://github.com/myflashlab/Badge-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
@@ -86,7 +86,7 @@
     {
       "name": "CMD",
       "id": "com.myflashlab.air.extensions.cmd",
-      "v": "2.0.0",
+      "v": "2.0.1",
       "desc": "Run Android command-line from your AIR app using this little AIR Native Extension",
       "changelog": "https://github.com/myflashlab/CMD-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
@@ -97,7 +97,7 @@
     {
       "name": "DarkMode",
       "id": "com.myflashlab.air.extensions.darkMode",
-      "v": "1.1.0",
+      "v": "1.1.1",
       "desc": "AIR Native Extension to access current state of the dark mode of the device on Android and iOS.",
       "changelog": "https://github.com/myflashlab/DarkMode-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
@@ -108,7 +108,7 @@
     {
       "name": "DeviceInfo",
       "id": "com.myflashlab.air.extensions.deviceInfo",
-      "v": "1.0.0",
+      "v": "1.0.1",
       "desc": "Get current device information from within the AIR application.",
       "changelog": "https://github.com/myflashlab/DeviceInfo-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
@@ -276,7 +276,7 @@
     {
       "name": "GameCenter",
       "id": "com.myflashlab.air.extensions.gameCenter",
-      "v": "1.0.0",
+      "v": "1.0.1",
       "desc": "Support iOS GameKit known as GameCenter in your Adobe AIR app",
       "changelog": "https://github.com/myflashlab/GameCenter-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
@@ -320,7 +320,7 @@
     {
       "name": "In-app-payments",
       "id": "com.myflashlab.air.extensions.billing",
-      "v": "4.9.2",
+      "v": "5.0.0",
       "desc": "Identical in-app-billing and in-app-purchase Air Native Extension for Android and iOS",
       "changelog": "https://github.com/myflashlab/inAppPayments-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
@@ -331,7 +331,7 @@
     {
       "name": "LocalAuthentication",
       "id": "com.myflashlab.air.extensions.localAuth",
-      "v": "2.0.0",
+      "v": "2.0.1",
       "desc": "local Fingerprint and Face Authentication ANE for AdobeAIR ",
       "changelog": "https://github.com/myflashlab/LocalAuth-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
@@ -353,7 +353,7 @@
     {
       "name": "packageManager",
       "id": "com.myflashlab.air.extensions.packageManager",
-      "v": "4.0.0",
+      "v": "4.0.1",
       "desc": "AIR Native Extension to give you access to Android's PackageManager API",
       "changelog": "https://github.com/myflashlab/packageManager-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
@@ -364,7 +364,7 @@
     {
       "name": "PDFViewer",
       "id": "com.myflashlab.air.extensions.pdfViewer",
-      "v": "4.0.0",
+      "v": "4.0.1",
       "desc": "Pdf Viewer air native extension lets you open pdf files from your Adobe Air mobile apps. Supported on Android and iOS",
       "changelog": "https://github.com/myflashlab/PDF-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
@@ -375,7 +375,7 @@
     {
       "name": "permissionCheck",
       "id": "com.myflashlab.air.extensions.permissionCheck",
-      "v": "5.0.0",
+      "v": "5.0.3",
       "desc": "Check and request for permissions in your Adobe Air app",
       "changelog": "https://github.com/myflashlab/PermissionCheck-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
@@ -386,7 +386,7 @@
     {
       "name": "QuickActions",
       "id": "com.myflashlab.air.extensions.quickActions",
-      "v": "1.0.0",
+      "v": "1.0.1",
       "desc": "QuickActions ANE known as '3D Touch Home screen quick actions' on iOS and 'App shortcuts' on Android.",
       "changelog": "https://github.com/myflashlab/QuickActions-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
@@ -408,7 +408,7 @@
     {
       "name": "Sensors",
       "id": "com.myflashlab.air.extensions.sensors",
-      "v": "1.0.0",
+      "v": "1.0.1",
       "desc": "ANE for accessing the accelerometer and gyroscope sensors on Android and iOS",
       "changelog": "https://github.com/myflashlab/Sensors-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
@@ -419,7 +419,7 @@
     {
       "name": "Share",
       "id": "com.myflashlab.air.extensions.share",
-      "v": "1.0.0",
+      "v": "1.0.1",
       "desc": "ANE for sharing content from your AdobeAIR app via the platform's share dialog.",
       "changelog": "https://github.com/myflashlab/Share-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
@@ -430,7 +430,7 @@
     {
       "name": "SharedPreferences",
       "id": "com.myflashlab.air.extensions.sharedPreferences",
-      "v": "1.0.0",
+      "v": "1.0.1",
       "desc": "AIR Native Extension for reading and writing simple key-value pairs. Wraps NSUserDefaults on iOS and SharedPreferences on Android.",
       "changelog": "https://github.com/myflashlab/SharedPreferences-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
@@ -441,7 +441,7 @@
     {
       "name": "Spotlight",
       "id": "com.myflashlab.air.extensions.spotlight",
-      "v": "2.0.0",
+      "v": "2.0.1",
       "desc": "Spotlight ANE brings iOS 9 spotlight library to Adobe Air applications. With this ANE, you can index search items at runtime and even from user generated content. ",
       "changelog": "https://github.com/myflashlab/Spotlight-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
@@ -452,7 +452,7 @@
     {
       "name": "Statusbar",
       "id": "com.myflashlab.air.extensions.statusbar",
-      "v": "2.0.0",
+      "v": "2.0.1",
       "desc": "Control the Statusbar in your AIR apps in runtime with this AIR Native Extension",
       "changelog": "https://github.com/myflashlab/Statusbar-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
@@ -463,7 +463,7 @@
     {
       "name": "UDID",
       "id": "com.myflashlab.air.extensions.udid",
-      "v": "3.0.0",
+      "v": "3.0.1",
       "desc": "Use this AIR Native Extension to obtain a unique device ID in your Adobe AIR app. Supported on Android and iOS",
       "changelog": "https://github.com/myflashlab/UDID-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
@@ -475,7 +475,7 @@
     {
       "name": "Vibration",
       "id": "com.myflashlab.air.extensions.vibration",
-      "v": "1.0.0",
+      "v": "1.0.1",
       "desc": "Enables vibration for AdobeAIR",
       "changelog": "https://github.com/myflashlab/vibration-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
@@ -508,7 +508,7 @@
     {
       "name": "volume",
       "id": "com.myflashlab.air.extensions.volume",
-      "v": "3.0.0",
+      "v": "3.0.1",
       "desc": "Check if device is muted or not, Control the device volume, play Sounds with NO latency, request for audio focus in your app so background music will be stopped.",
       "changelog": "https://github.com/myflashlab/VolumePro-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
