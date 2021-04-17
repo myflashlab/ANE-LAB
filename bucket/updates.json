@@ -97,7 +97,7 @@
     {
       "name": "DarkMode",
       "id": "com.myflashlab.air.extensions.darkMode",
-      "v": "1.1.0",
+      "v": "1.1.1",
       "desc": "AIR Native Extension to access current state of the dark mode of the device on Android and iOS.",
       "changelog": "https://github.com/myflashlab/DarkMode-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
