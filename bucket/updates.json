@@ -53,7 +53,7 @@
     {
       "name": "Badge",
       "id": "com.myflashlab.air.extensions.badge",
-      "v": "2.0.0",
+      "v": "2.0.1",
       "desc": "control the iOS badge value directly from Adobe AIR app",
       "changelog": "https://github.com/myflashlab/Badge-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
