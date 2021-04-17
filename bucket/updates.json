@@ -508,7 +508,7 @@
     {
       "name": "volume",
       "id": "com.myflashlab.air.extensions.volume",
-      "v": "3.0.0",
+      "v": "3.0.1",
       "desc": "Check if device is muted or not, Control the device volume, play Sounds with NO latency, request for audio focus in your app so background music will be stopped.",
       "changelog": "https://github.com/myflashlab/VolumePro-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
