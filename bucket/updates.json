@@ -276,7 +276,7 @@
     {
       "name": "GameCenter",
       "id": "com.myflashlab.air.extensions.gameCenter",
-      "v": "1.0.0",
+      "v": "1.0.1",
       "desc": "Support iOS GameKit known as GameCenter in your Adobe AIR app",
       "changelog": "https://github.com/myflashlab/GameCenter-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
