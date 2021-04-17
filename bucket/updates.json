@@ -31,7 +31,7 @@
     {
       "name": "AppleSignin",
       "id": "com.myflashlab.air.extensions.appleSignIn",
-      "v": "1.1.0",
+      "v": "1.1.1",
       "desc": "Sign in with Apple makes it easy for users to sign in to your AIR apps using their Apple ID.",
       "changelog": "https://github.com/myflashlab/AppleSigin-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
