@@ -430,7 +430,7 @@
     {
       "name": "SharedPreferences",
       "id": "com.myflashlab.air.extensions.sharedPreferences",
-      "v": "1.0.0",
+      "v": "1.0.1",
       "desc": "AIR Native Extension for reading and writing simple key-value pairs. Wraps NSUserDefaults on iOS and SharedPreferences on Android.",
       "changelog": "https://github.com/myflashlab/SharedPreferences-ANE/raw/master/ChangeLog.md",
       "isDependency": false,
