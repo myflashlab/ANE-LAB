@@ -1045,6 +1045,17 @@
       "path_swc": "DEPENDENCY/play-services-clearcut/googlePlayServices_clearcut.swc"
     },
     {
+      "name": "googlePlayServices_cloud_messaging",
+      "id": "com.myflashlab.air.extensions.dependency.googlePlayServices.cloud.messaging",
+      "v": "16.0.0",
+      "desc": "Includes Android dependencies for Google Play Services.",
+      "changelog": "",
+      "isDependency": true,
+      "thumb": "DEPENDENCY/play-services-cloud-messaging/icon.png",
+      "path_ane": "DEPENDENCY/play-services-cloud-messaging/googlePlayServices_cloud_messaging.ane",
+      "path_swc": "DEPENDENCY/play-services-cloud-messaging/googlePlayServices_cloud_messaging.swc"
+    },
+    {
       "name": "googlePlayServices_drive",
       "id": "com.myflashlab.air.extensions.dependency.googlePlayServices.drive",
       "v": "17.0.1",
