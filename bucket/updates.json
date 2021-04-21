@@ -836,6 +836,17 @@
       "path_swc": "DEPENDENCY/firebase-dynamic-links/firebase_dynamicLinks.swc"
     },
     {
+      "name": "firebase_encoders",
+      "id": "com.myflashlab.air.extensions.dependency.firebase.encoders",
+      "v": "16.1.0",
+      "desc": "Includes Android dependencies required by the Firebase ANEs",
+      "changelog": "",
+      "isDependency": true,
+      "thumb": "DEPENDENCY/firebase-encoders/icon.png",
+      "path_ane": "DEPENDENCY/firebase-encoders/firebase_encoders.ane",
+      "path_swc": "DEPENDENCY/firebase-encoders/firebase_encoders.swc"
+    },
+    {
       "name": "firebase_encodersJson",
       "id": "com.myflashlab.air.extensions.dependency.firebase.encoders.json",
       "v": "17.1.0",
