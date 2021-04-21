@@ -1239,6 +1239,17 @@
       "thumb": "DEPENDENCY/play-services-vision/icon.png",
       "path_ane": "DEPENDENCY/play-services-vision/googlePlayServices_vision.ane",
       "path_swc": "DEPENDENCY/play-services-vision/googlePlayServices_vision.swc"
+    },
+    {
+      "name": "jetbrains_kotlin",
+      "id": "com.myflashlab.air.extensions.dependency.jetbrains.kotlin",
+      "v": "1.3.72",
+      "desc": "Includes Android dependencies for Firebase SDKs.",
+      "changelog": "",
+      "isDependency": true,
+      "thumb": "DEPENDENCY/jetbrains-kotlin/icon.png",
+      "path_ane": "DEPENDENCY/jetbrains-kotlin/jetbrains_kotlin.ane",
+      "path_swc": "DEPENDENCY/jetbrains-kotlin/jetbrains_kotlin.swc"
     }
   ]
 }
