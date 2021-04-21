@@ -781,6 +781,17 @@
       "path_swc": "DEPENDENCY/firebase-crash/firebase_crash.swc"
     },
     {
+      "name": "firebase_crashlytics",
+      "id": "com.myflashlab.air.extensions.dependency.firebase.crashlytics",
+      "v": "17.3.0",
+      "desc": "Includes Android dependencies required by the Firebase Crashlytics ANE",
+      "changelog": "",
+      "isDependency": true,
+      "thumb": "DEPENDENCY/firebase-crashlytics/icon.png",
+      "path_ane": "DEPENDENCY/firebase-crashlytics/firebase_crashlytics.ane",
+      "path_swc": "DEPENDENCY/firebase-crashlytics/firebase_crashlytics.swc"
+    },
+    {
       "name": "firebase_database",
       "id": "com.myflashlab.air.extensions.dependency.firebase.database",
       "v": "19.6.0",
