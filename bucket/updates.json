@@ -737,6 +737,17 @@
       "path_swc": "DEPENDENCY/firebase-analytics-impl/firebase_analyticsImpl.swc"
     },
     {
+      "name": "firebase_annotations",
+      "id": "com.myflashlab.air.extensions.dependency.firebase.annotations",
+      "v": "16.0.0",
+      "desc": "Includes Android dependencies required by the Firebase ANEs",
+      "changelog": "",
+      "isDependency": true,
+      "thumb": "DEPENDENCY/firebase-annotations/icon.png",
+      "path_ane": "DEPENDENCY/firebase-annotations/firebase_annotations.ane",
+      "path_swc": "DEPENDENCY/firebase-annotations/firebase_annotations.swc"
+    },
+    {
       "name": "firebase_appindexing",
       "id": "com.myflashlab.air.extensions.dependency.firebase.appindexing",
       "v": "19.1.0",
